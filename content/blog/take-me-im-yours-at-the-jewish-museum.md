@@ -1,19 +1,20 @@
 ---
-title: 'Take Me (I&#8217;m Yours) at The Jewish Museum'
-date: '2016-09-30T01:44:45+00:00'
+title: Take Me (I'm Yours) at The Jewish Museum
+date: 2016-09-30T01:44:45+00:00
 status: publish
-permalink: /take-me-im-yours-at-the-jewish-museum
+permalink: "/take-me-im-yours-at-the-jewish-museum"
 author: Danielle
 excerpt: ''
 type: post
-id: 872
+id: "872"
 category:
-    - 'Contemporary Art'
-    - 'New York'
-    - Readymade
-    - 'The Jewish Museum New York'
+- Contemporary Art
+- New York
+- Readymade
+- The Jewish Museum New York
 tag: []
 post_format: []
+
 ---
 ![](https://c3.staticflickr.com/6/5300/29784047050_3e1c594cca_z.jpg)
 
