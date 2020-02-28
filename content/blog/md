@@ -1,0 +1,19 @@
+---
+title: home
+date: '2013-06-02T23:42:01+00:00'
+status: publish
+permalink: ''
+author: Danielle
+excerpt: ''
+type: page
+id: 4
+---
+<div class="slideshow_container slideshow_container_style-light" data-slideshow-id="84" data-style-name="style-light" data-style-version="2.3.1" style="height: 640px; max-width: 960px;"><div class="slideshow_loading_icon"></div><div class="slideshow_content" style="display: none;"><div class="slideshow_view"><div class="slideshow_slide slideshow_slide_image"> ![1](../uploads/2015/08/1.jpg)<div class="slideshow_description_box slideshow_transparent"><div class="slideshow_title">1</div> </div> </div><div style="clear: both;"></div></div><div class="slideshow_view"><div class="slideshow_slide slideshow_slide_image"> ![Man on wire](../uploads/2016/10/DSC_0671.jpg)<div class="slideshow_description_box slideshow_transparent"><div class="slideshow_title">Man on wire</div> </div> </div><div style="clear: both;"></div></div><div class="slideshow_view"><div class="slideshow_slide slideshow_slide_image"> ![Schloss Mirabell](../uploads/2016/07/Schloss-Mirabell.jpg)<div class="slideshow_description_box slideshow_transparent"><div class="slideshow_title">Schloss Mirabell</div> </div> </div><div style="clear: both;"></div></div><div class="slideshow_view"><div class="slideshow_slide slideshow_slide_image"> ![Marrakech](../uploads/2016/10/DSC_0781.jpg)<div class="slideshow_description_box slideshow_transparent"><div class="slideshow_title">Marrakech</div> </div> </div><div style="clear: both;"></div></div><div class="slideshow_view"><div class="slideshow_slide slideshow_slide_image"> ![Sicily9](../uploads/2015/09/Sicily9.jpg)<div class="slideshow_description_box slideshow_transparent"><div class="slideshow_title">Sicily9</div> </div> </div><div style="clear: both;"></div></div><div class="slideshow_view"><div class="slideshow_slide slideshow_slide_image"> ![Istanbul5](../uploads/2015/09/Istanbul5.jpg)<div class="slideshow_description_box slideshow_transparent"><div class="slideshow_title">Istanbul5</div> </div> </div><div style="clear: both;"></div></div><div class="slideshow_view"><div class="slideshow_slide slideshow_slide_image"> ![Sicily1](../uploads/2015/09/Sicily1.jpg)<div class="slideshow_description_box slideshow_transparent"><div class="slideshow_title">Sicily1</div> </div> </div><div style="clear: both;"></div></div> </div><div class="slideshow_controlPanel slideshow_transparent" style="display: none;">- 
+
+</div><div class="slideshow_button slideshow_previous slideshow_transparent" data-previous-text="Previous" role="button" style="display: none;"></div><div class="slideshow_button slideshow_next slideshow_transparent" data-next-text="Next" role="button" style="display: none;"></div><div class="slideshow_pagination" data-go-to-text="Go to slide" style="display: none;"><div class="slideshow_pagination_center"></div></div>  </div><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');</script>
+
+ ga('create', 'UA-43285905-1', 'daniellehoo.com'); ga('send', 'pageview');
