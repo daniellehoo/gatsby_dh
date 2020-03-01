@@ -1,16 +1,17 @@
 ---
-title: 'Everything I&#8217;ve Read in 2015'
-date: '2015-12-31T16:20:02+00:00'
+title: Everything I've Read in 2015
+date: 2015-12-31T16:20:02+00:00
 status: publish
-permalink: /everything-ive-read-in-2015
+permalink: "/everything-ive-read-in-2015"
 author: Danielle
 excerpt: ''
 type: post
-id: 793
+id: "793"
 category:
-    - Books
+- Books
 tag: []
 post_format: []
+
 ---
 Here’s the third iteration of my “Everything I’ve Read in 201x.” Goals for this year: read more damn books.
 
