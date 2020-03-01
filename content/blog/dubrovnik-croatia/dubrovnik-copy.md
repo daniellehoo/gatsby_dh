@@ -1,0 +1,12 @@
+---
+title: 'Dubrovnik copy'
+date: '2013-08-03T17:56:11+00:00'
+status: publish
+permalink: /dubrovnik-croatia/dubrovnik-copy
+author: Danielle
+excerpt: 'Dubrovnik, Croatia'
+type: attachment
+id: 247
+---
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding="UTF-8">
