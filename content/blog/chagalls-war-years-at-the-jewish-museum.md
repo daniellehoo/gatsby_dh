@@ -1,19 +1,20 @@
 ---
-title: 'Chagall&#8217;s War Years at The Jewish Museum'
-date: '2013-09-17T02:51:48+00:00'
+title: Chagall's War Years at The Jewish Museum
+date: 2013-09-17T02:51:48+00:00
 status: publish
-permalink: /chagalls-war-years-at-the-jewish-museum
+permalink: "/chagalls-war-years-at-the-jewish-museum"
 author: Danielle
 excerpt: ''
 type: post
-id: 436
+id: "436"
 category:
-    - Museums
-    - 'New York'
-    - 'The Jewish Museum New York'
+- Museums
+- New York
+- The Jewish Museum New York
 tag:
-    - Chagall
+- Chagall
 post_format: []
+
 ---
 <div class="wp-caption alignnone" style="width: 650px">![](http://farm8.staticflickr.com/7296/9780113382_38c7bd5bcc_z.jpg)Chagall “Solitude, 1933, oil on canvas
 
