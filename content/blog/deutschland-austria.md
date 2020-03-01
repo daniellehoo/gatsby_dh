@@ -1,18 +1,19 @@
 ---
-title: 'Deutschland &#038; Austria'
-date: '2016-06-30T02:28:50+00:00'
+title: Deutschland & Austria
+date: 2016-06-30T02:28:50+00:00
 status: publish
-permalink: /deutschland-austria
+permalink: "/deutschland-austria"
 author: Danielle
 excerpt: ''
 type: post
-id: 839
+id: "839"
 category:
-    - Europe
-    - Germany
-    - Travel
+- Europe
+- Germany
+- Travel
 tag: []
 post_format: []
+
 ---
 <div class="wp-caption alignnone" style="width: 650px">![](https://c7.staticflickr.com/8/7349/27524507134_5b66b8048e_z.jpg)Munich
 

@@ -1,16 +1,17 @@
 ---
-title: 'Everything I&#8217;ve Read in 2014'
-date: '2014-12-31T18:56:53+00:00'
+title: Everything I've Read in 2014
+date: 2014-12-31T18:56:53+00:00
 status: publish
-permalink: /everything-ive-read-in-2014
+permalink: "/everything-ive-read-in-2014"
 author: Danielle
 excerpt: ''
 type: post
-id: 711
+id: "711"
 category:
-    - Books
+- Books
 tag: []
 post_format: []
+
 ---
 It was a pretty slow year for leisure reading because I was finishing grad school and writing my thesis for most of 2014, but here’s what I managed to finish:
 
