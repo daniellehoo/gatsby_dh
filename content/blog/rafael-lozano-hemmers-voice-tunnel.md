@@ -1,18 +1,19 @@
 ---
-title: 'Rafael Lozano-Hemmer&#8217;s Voice Tunnel'
-date: '2013-08-11T16:09:17+00:00'
+title: Rafael Lozano-Hemmer's Voice Tunnel
+date: 2013-08-11T16:09:17+00:00
 status: publish
-permalink: /rafael-lozano-hemmers-voice-tunnel
+permalink: "/rafael-lozano-hemmers-voice-tunnel"
 author: Danielle
 excerpt: ''
 type: post
-id: 276
+id: "276"
 category:
-    - 'Light and Space'
-    - 'New York'
+- Light and Space
+- New York
 tag:
-    - 'Light and Space'
+- Light and Space
 post_format: []
+
 ---
 <div class="wp-caption alignnone" id="attachment_280" style="width: 310px">[![The Park Avenue Tunnel](http://www.daniellehoo.com/wp-content/uploads/2013/08/DSC_0460-copy-300x253.jpg)](http://www.daniellehoo.com/wp-content/uploads/2013/08/DSC_0460-copy.jpg)The Park Avenue Tunnel
 
