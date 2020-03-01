@@ -1,16 +1,17 @@
 ---
-title: 'Everything I&#8217;ve Read in 2013'
-date: '2014-01-18T01:57:35+00:00'
+title: Everything I've Read in 2013
+date: 2014-01-18T01:57:35+00:00
 status: publish
-permalink: /everything-ive-read-in-2013
+permalink: "/everything-ive-read-in-2013"
 author: Danielle
 excerpt: ''
 type: post
-id: 599
+id: "599"
 category:
-    - Books
+- Books
 tag: []
 post_format: []
+
 ---
 Okay, so it was a slow year for books, but I was enrolled (full-time) in a graduate program. They are listed in order of reading:
 

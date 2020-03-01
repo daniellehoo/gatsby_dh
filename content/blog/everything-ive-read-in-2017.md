@@ -1,16 +1,17 @@
 ---
-title: 'Everything I&#8217;ve Read in 2017'
-date: '2017-12-31T23:48:28+00:00'
+title: Everything I've Read in 2017
+date: 2017-12-31T23:48:28+00:00
 status: publish
-permalink: /everything-ive-read-in-2017
+permalink: "/everything-ive-read-in-2017"
 author: Danielle
 excerpt: ''
 type: post
-id: 1138
+id: "1138"
 category:
-    - Books
+- Books
 tag: []
 post_format: []
+
 ---
 Maybe you thought that 2017 was a dumpster fire of a year. Maybe you were able to find the silver lining and the year brought you long sought solace. Either way, the calendar year is over after an overwhelming amount of calamity and head and heartache, 2018 is at our collective doorstep. New Years make me hopeful and they’re a fresh start, so hooray for that.
 

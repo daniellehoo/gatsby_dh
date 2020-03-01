@@ -1,21 +1,22 @@
 ---
-title: 'Santorini: Red, White &#038; Black Beaches, Blue-Domed Churches and Stray Animals'
-date: '2013-07-29T02:53:16+00:00'
+title: 'Santorini: Red, White & Black Beaches, Blue-Domed Churches and Stray Animals'
+date: 2013-07-29T02:53:16+00:00
 status: publish
-permalink: /santorini-land-of-beautiful-beaches-blue-domed-churches-and-stray-animals
+permalink: "/santorini-land-of-beautiful-beaches-blue-domed-churches-and-stray-animals"
 author: Danielle
 excerpt: ''
 type: post
-id: 174
+id: "174"
 category:
-    - Europe
-    - Greece
-    - Travel
+- Europe
+- Greece
+- Travel
 tag:
-    - Greece
-    - Santorini
-    - Travel
+- Greece
+- Santorini
+- Travel
 post_format: []
+
 ---
 <div class="wp-caption alignnone" id="attachment_175" style="width: 310px">[![Oia at Dusk](http://www.daniellehoo.com/wp-content/uploads/2013/07/Santorini_1-300x198.jpg)](http://www.daniellehoo.com/wp-content/uploads/2013/07/Santorini_1.jpg)Oia at Dusk.
 
