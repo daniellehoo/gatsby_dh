@@ -1,17 +1,16 @@
 ---
-title: Everything I've Read in 2018
-date: 2018-12-31T02:42:38+00:00
+title: 'Everything I&#8217;ve Read in 2018'
+date: '2018-12-31T02:42:38+00:00'
 status: publish
-permalink: "/everything-ive-read-in-2018"
+permalink: /everything-ive-read-in-2018
 author: Danielle
 excerpt: ''
 type: post
-id: "1187"
+id: 1187
 category:
-- Books
+    - Books
 tag: []
 post_format: []
-
 ---
 1. The Wind Up Bird Chronicle by Haruki Murakami
 2. The New Jim Crow by Michelle Alexander
