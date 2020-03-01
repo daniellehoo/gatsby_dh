@@ -1,20 +1,21 @@
 ---
-title: 'Sotheby&#8217;s Institute of Art'
-date: '2013-09-12T00:46:10+00:00'
+title: Sotheby's Institute of Art
+date: 2013-09-12T00:46:10+00:00
 status: publish
-permalink: /sothebys-institute-of-art
+permalink: "/sothebys-institute-of-art"
 author: Danielle
 excerpt: ''
 type: post
-id: 375
+id: "375"
 category:
-    - 'Contemporary Art'
-    - 'New York'
-    - 'Sotheby''s Institute of Art'
+- Contemporary Art
+- New York
+- Sotheby's Institute of Art
 tag:
-    - 'Contemporary Art'
-    - 'Sotheby''s'
+- Contemporary Art
+- Sotheby's
 post_format: []
+
 ---
 <div class="wp-caption alignnone" style="width: 650px">![](http://farm8.staticflickr.com/7408/9728892332_ff1b49f501_z.jpg)Andy Warhol *Queen Elizabeth II of the United Kingdom,* 1985
 
