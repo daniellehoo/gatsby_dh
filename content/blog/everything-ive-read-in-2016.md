@@ -1,23 +1,24 @@
 ---
-title: 'Everything I&#8217;ve Read in 2016'
-date: '2016-12-23T18:56:50+00:00'
+title: Everything I've Read in 2016
+date: 2016-12-23T18:56:50+00:00
 status: publish
-permalink: /everything-ive-read-in-2016
+permalink: "/everything-ive-read-in-2016"
 author: Danielle
 excerpt: ''
 type: post
-id: 924
+id: "924"
 category:
-    - Books
+- Books
 tag:
-    - books
-    - gilead
-    - 'harry potter'
-    - literature
-    - 'moby dick'
-    - novels
-    - 'the sellout'
+- books
+- gilead
+- harry potter
+- literature
+- moby dick
+- novels
+- the sellout
 post_format: []
+
 ---
 We love to make lists at the end of every year–I’m not excluded from that cohort. It helps us gather our thoughts and compound dissimilar units of measurement to gauge how we spent our time or figure out what sticks after another calendar year. Even though no one reads this (except perhaps my mother, and I’m sure even she is not diligent about it), here is the fourth iteration of ‘Everything I have Read in 20XX.’ Cheers to odd years holding more promise than the even ones.
 
