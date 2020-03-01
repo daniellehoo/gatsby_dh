@@ -1,17 +1,18 @@
 ---
-title: 'The Women&#8217;s March on New York; January 21, 2017'
-date: '2017-01-29T17:24:32+00:00'
+title: The Women's March on New York; January 21, 2017
+date: 2017-01-29T17:24:32+00:00
 status: publish
-permalink: /the-womens-march-on-new-york-january-21-2017
+permalink: "/the-womens-march-on-new-york-january-21-2017"
 author: Danielle
 excerpt: ''
 type: post
-id: 958
+id: "958"
 category:
-    - 'New York'
-    - Uncategorized
+- New York
+- Uncategorized
 tag: []
 post_format: []
+
 ---
 ![](https://c1.staticflickr.com/1/731/31780516133_f7a1edc715_z.jpg)
 
