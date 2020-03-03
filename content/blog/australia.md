@@ -23,8 +23,12 @@ tag:
 post_format: []
 
 ---
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4616/26770050588_3a6a68214a.jpg)Great Ocean Road
-</div>In 2011, I went on a one-month backpacking trip around Western Europe with my roommate from college. We went to Ireland, France, Spain, and Italy. In Paris we stayed in a really shitty hostel that actually smelled like piss. The silver lining was that we met Tom and Liv, two Aussies from Melbourne. In Paris, Tom ate his first crêpe and we all went to the Centre Pompidou together on a super grey day. Fast forward to 2013 and then 2015 when Tom was traveling the globe again and came to stay with me in New York. The offer to visit Australia always stood, the circumstances just had to align—I happened to have a bit of time off because I recently quit my job, so my friend Kay-Lin and I booked a trip.
+![](https://farm5.staticflickr.com/4616/26770050588_3a6a68214a.jpg)
+
+Great Ocean Road
+
+
+In 2011, I went on a one-month backpacking trip around Western Europe with my roommate from college. We went to Ireland, France, Spain, and Italy. In Paris we stayed in a really shitty hostel that actually smelled like piss. The silver lining was that we met Tom and Liv, two Aussies from Melbourne. In Paris, Tom ate his first crêpe and we all went to the Centre Pompidou together on a super grey day. Fast forward to 2013 and then 2015 when Tom was traveling the globe again and came to stay with me in New York. The offer to visit Australia always stood, the circumstances just had to align—I happened to have a bit of time off because I recently quit my job, so my friend Kay-Lin and I booked a trip.
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4654/38830723200_84f110334d.jpg)Captured in Fitzroy, Melbourne
 
