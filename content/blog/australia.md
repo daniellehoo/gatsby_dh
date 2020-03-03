@@ -30,33 +30,49 @@ Great Ocean Road
 
 In 2011, I went on a one-month backpacking trip around Western Europe with my roommate from college. We went to Ireland, France, Spain, and Italy. In Paris we stayed in a really shitty hostel that actually smelled like piss. The silver lining was that we met Tom and Liv, two Aussies from Melbourne. In Paris, Tom ate his first crêpe and we all went to the Centre Pompidou together on a super grey day. Fast forward to 2013 and then 2015 when Tom was traveling the globe again and came to stay with me in New York. The offer to visit Australia always stood, the circumstances just had to align—I happened to have a bit of time off because I recently quit my job, so my friend Kay-Lin and I booked a trip.
 
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4654/38830723200_84f110334d.jpg)Captured in Fitzroy, Melbourne
+  
+![](https://farm5.staticflickr.com/4654/38830723200_84f110334d.jpg)
 
-</div>Here’s how it all went down:
+Captured in Fitzroy, Melbourne
 
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4702/40599509212_be845ec91e.jpg)Sydney Opera House
+Here’s how it all went down:
 
-</div>**Monday, February 5–Tuesday, February 6**  
+![](https://farm5.staticflickr.com/4702/40599509212_be845ec91e.jpg)
+
+Sydney Opera House
+
+**Monday, February 5–Tuesday, February 6**  
 Our Qantas flight from JFK departed at 6:00 p.m. We had a layover at LAX and were in transit for about 24 hours. On the LAX to MEL leg (15.5 hours), the band [Unwritten Law](https://www.youtube.com/watch?v=Tq-T49MqRiQ) sits in the row in front of us en route to their Australia tour (_note: we were in the back of coach in a row in the 60s_). I watched _Dunkirk_, _Three Billboards Outside Ebbing Missouri_, _The Seven Year Itch_, _The Sound of Music_, and _Bladerunner: 2049._ Tangent: I forgot how damn good _The Sound of Music_ is.
 
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4609/26769273658_977f64906e.jpg)Inside NGV
+![](https://farm5.staticflickr.com/4609/26769273658_977f64906e.jpg)
 
-</div>**Wednesday, February 7**  
+Inside NGV
+
+**Wednesday, February 7**  
 We arrive at the Melbourne airport where Tom picks us up. (Victoria and New South Wales are 16-hours ahead of New York). We get settled at his house in the suburbs of Ivanhoe. We meet the pups Bosco and Yoda, Tom goes into work, and after a proper shower get lunch at a place called Caffe Strada (_note, things we quickly learned: the Aussies love their avocado aka “avo” toast, their abbreviations, and you have to go up to the counter to pay the check, even at more upscale restaurants_). For dinner, we met up with Tom, Liv, Tom’s gf Lisa at a place called Ha Long Bay in Little Vietnam (there’s no shortage of good Asia cuisine in Oz).
 
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4797/40640914001_0c8ecfe62b.jpg)State Library of Victoria
+  
+![](https://farm5.staticflickr.com/4797/40640914001_0c8ecfe62b.jpg)
 
-</div>**Thursday, February 8**  
+State Library of Victoria
+
+**Thursday, February 8**  
 We wake up pretty early to explore downtown Melbourne. First, we visited the [NGA (National Gallery of Victoria)](https://www.ngv.vic.gov.au/) at their contemporary/international location to see their Triennial, which was quite good. After the museum, we got lunch and saw the State Library of Victoria, which is a wonderful building. Then we tried to go to the Queen Victoria Market, but it closed at 2:00 p.m. so we walked through the empty stalls. Next, we went to the domestic/indigenous portion of NGA before visiting Hosier Lane to see street art and Degraves Street for little shops and such. After, we headed to Fitzroy (the Brooklyn of Melbourne) for a bit of wandering and dinner at a Greek place called Alpha Guzeri. Our waiter was very friendly and gave us written directions back to Ivanhoe. Aussies are really the friendliest.
 
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4710/40640910411_2693bef484.jpg)Twelve Apostles, Great Ocean Road
+  
+![](https://farm5.staticflickr.com/4710/40640910411_2693bef484.jpg)
 
-</div>**Friday, February 9**  
+Twelve Apostles, Great Ocean Road
+
+**Friday, February 9**  
 After getting breakfast at a Tulip Coffee on Degraves Street (and talking to one of the workers who was an American from Colorado by way of West Virginia), we met up with some of out tour group for the Great Ocean Road tour outside of the Immigration Museum. We met a bloke named Rasmus from outside of Stockholm who was in construction and on holiday indefinitely. Our guide’s name was Peter and there were 23 people total on the tour (from New Zealand, Germany, South Africa, India, and the UK). The tour started with tea at Urquhart Bluff and then we stopped at the Memorial Arch for photos. We passed through Lorne, stopped to see koalas at Kennett River, had lunch at the Iluka Restaurant in Apollo Bay, walked through Maits Rest Rainforest, and then Port Campbell Park to see the 12 Apostles. We took a walk on the beach at Loch Arch gorge and saw the fallen London Bridge. We didn’t get back to Melbourne until 9:30 p.m. and we grabbed a quick dinner on Degraves again at a great burger chain called Grill’d.
 
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4747/40640909361_75abc44626.jpg)Brighton Beach
+  
+![](https://farm5.staticflickr.com/4747/40640909361_75abc44626.jpg)
 
-</div>**Saturday, February 10**  
+Brighton Beach
+
+**Saturday, February 10**  
 Tom, Lisa, Kay-Lin and I had brunch at an amazing placed called Friends of Mine. We then went to Brighton Beach to see the beach boxes (after quickly stopping by Tom’s office). After that we went back to Tom’s place and Kay-Lin and I went into town to do some shopping (but to our dismay, basically everything closes at around 2:00 p.m. on Saturday). For dinner, we went to the Moroccan Soup Bar, an incredible family-style place in Fitzroy North. Then we went to St. Kilda’s to see the penguins at sunset.
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4778/40640912391_b664c93cd4.jpg)Street art in Fitzroy
