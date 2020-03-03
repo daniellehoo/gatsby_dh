@@ -1,29 +1,29 @@
 ---
 title: Australia
-date: '2018-02-21T17:26:00+00:00'
+date: 2018-02-21T17:26:00+00:00
 status: publish
-permalink: /australia
+permalink: "/australia"
 author: Danielle
 excerpt: ''
 type: post
-id: 1161
+id: "1161"
 category:
-    - Australia
-    - Museums
-    - Travel
+- Australia
+- Museums
+- Travel
 tag:
-    - 'airlie beach'
-    - australia
-    - 'great barrier reef'
-    - melbourne
-    - 'sky diving'
-    - sydney
-    - 'whitehaven beach'
-    - whitsundays
+- airlie beach
+- australia
+- great barrier reef
+- melbourne
+- sky diving
+- sydney
+- whitehaven beach
+- whitsundays
 post_format: []
----
-<div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4616/26770050588_3a6a68214a.jpg)Great Ocean Road
 
+---
+<div class="wp-caption alignnone" style="width: 510px">[Great Ocean Road](https://farm5.staticflickr.com/4616/26770050588_3a6a68214a.jpg
 </div>In 2011, I went on a one-month backpacking trip around Western Europe with my roommate from college. We went to Ireland, France, Spain, and Italy. In Paris we stayed in a really shitty hostel that actually smelled like piss. The silver lining was that we met Tom and Liv, two Aussies from Melbourne. In Paris, Tom ate his first crêpe and we all went to the Centre Pompidou together on a super grey day. Fast forward to 2013 and then 2015 when Tom was traveling the globe again and came to stay with me in New York. The offer to visit Australia always stood, the circumstances just had to align—I happened to have a bit of time off because I recently quit my job, so my friend Kay-Lin and I booked a trip.
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4654/38830723200_84f110334d.jpg)Captured in Fitzroy, Melbourne
@@ -33,12 +33,12 @@ post_format: []
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4702/40599509212_be845ec91e.jpg)Sydney Opera House
 
 </div>**Monday, February 5–Tuesday, February 6**  
-Our Qantas flight from JFK departed at 6:00 p.m. We had a layover at LAX and were in transit for about 24 hours. On the LAX to MEL leg (15.5 hours), the band [Unwritten Law](https://www.youtube.com/watch?v=Tq-T49MqRiQ) sits in the row in front of us en route to their Australia tour (*note: we were in the back of coach in a row in the 60s*). I watched *Dunkirk*, *Three Billboards Outside Ebbing Missouri*, *The Seven Year Itch*, *The Sound of Music*, and *Bladerunner: 2049.* Tangent: I forgot how damn good *The Sound of Music* is.
+Our Qantas flight from JFK departed at 6:00 p.m. We had a layover at LAX and were in transit for about 24 hours. On the LAX to MEL leg (15.5 hours), the band [Unwritten Law](https://www.youtube.com/watch?v=Tq-T49MqRiQ) sits in the row in front of us en route to their Australia tour (_note: we were in the back of coach in a row in the 60s_). I watched _Dunkirk_, _Three Billboards Outside Ebbing Missouri_, _The Seven Year Itch_, _The Sound of Music_, and _Bladerunner: 2049._ Tangent: I forgot how damn good _The Sound of Music_ is.
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4609/26769273658_977f64906e.jpg)Inside NGV
 
 </div>**Wednesday, February 7**  
-We arrive at the Melbourne airport where Tom picks us up. (Victoria and New South Wales are 16-hours ahead of New York). We get settled at his house in the suburbs of Ivanhoe. We meet the pups Bosco and Yoda, Tom goes into work, and after a proper shower get lunch at a place called Caffe Strada (*note, things we quickly learned: the Aussies love their avocado aka “avo” toast, their abbreviations, and you have to go up to the counter to pay the check, even at more upscale restaurants*). For dinner, we met up with Tom, Liv, Tom’s gf Lisa at a place called Ha Long Bay in Little Vietnam (there’s no shortage of good Asia cuisine in Oz).
+We arrive at the Melbourne airport where Tom picks us up. (Victoria and New South Wales are 16-hours ahead of New York). We get settled at his house in the suburbs of Ivanhoe. We meet the pups Bosco and Yoda, Tom goes into work, and after a proper shower get lunch at a place called Caffe Strada (_note, things we quickly learned: the Aussies love their avocado aka “avo” toast, their abbreviations, and you have to go up to the counter to pay the check, even at more upscale restaurants_). For dinner, we met up with Tom, Liv, Tom’s gf Lisa at a place called Ha Long Bay in Little Vietnam (there’s no shortage of good Asia cuisine in Oz).
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4797/40640914001_0c8ecfe62b.jpg)State Library of Victoria
 
@@ -66,7 +66,7 @@ Tom, Lisa, Kay-Lin and I had brunch at an amazing placed called Friends of Mine.
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4741/39745018515_607f8532fb.jpg)Aboard the Waltzing Matilda
 
 </div>**Tuesday, February 13**  
-We had to be at the dock at 8:00 a.m. to board the Waltzing Matilda—our sailboat. The crew was Captain Paul, an Aussie who used to be in construction, and Noel (*Noelle)* from California. Our first stop was Hook Island/inlet. After an intro and welcome tea, we went to False Nara for snorkeling (we had to wear stinger suits on account of the jelly fish that reside in the waters). After that we snorkeled in Saba where we was a turtle. Then we had lunch and we had our last snorkel of the day at Hook Passage. Then we had dinner and watched the stars—the sky was so clear. We docked for the night at Hook Passage. Our shipmates included a Chinese family of five, two Swiss girls, a German girl, a German man and girl traveling together, and a couple from the UK/Netherlands.
+We had to be at the dock at 8:00 a.m. to board the Waltzing Matilda—our sailboat. The crew was Captain Paul, an Aussie who used to be in construction, and Noel (_Noelle)_ from California. Our first stop was Hook Island/inlet. After an intro and welcome tea, we went to False Nara for snorkeling (we had to wear stinger suits on account of the jelly fish that reside in the waters). After that we snorkeled in Saba where we was a turtle. Then we had lunch and we had our last snorkel of the day at Hook Passage. Then we had dinner and watched the stars—the sky was so clear. We docked for the night at Hook Passage. Our shipmates included a Chinese family of five, two Swiss girls, a German girl, a German man and girl traveling together, and a couple from the UK/Netherlands.
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4621/25770050177_930c1618d8.jpg)Whitehaven Beach
 
@@ -75,7 +75,7 @@ We woke up at around 6:00 a.m. to the sound of the engine. We ate a bit of break
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4617/39745697795_efc69ecf64.jpg)Haters will say it’s Photoshopped
 
-</div>**Thursday, February 15** Another bright and early wake up for a 6:00 a.m. SKY DIVING call time at Airlie Beach sky diving over the Whitsundays. It’s a pretty surreal bucket list thing and after it happens, watching the video you feel like you’re witnessing someone else’s experience. In the late afternoon, we took a yoga class at Yartamana Yoga. For lunch, we had snacks from Woolworth’s and for dinner we had fish &amp; chips from Whitsunday Seafood. We tried to venture to check out the nightlife scene and walked to a nightclub called Boom, but weren’t really feeling it.
+</div>**Thursday, February 15** Another bright and early wake up for a 6:00 a.m. SKY DIVING call time at Airlie Beach sky diving over the Whitsundays. It’s a pretty surreal bucket list thing and after it happens, watching the video you feel like you’re witnessing someone else’s experience. In the late afternoon, we took a yoga class at Yartamana Yoga. For lunch, we had snacks from Woolworth’s and for dinner we had fish & chips from Whitsunday Seafood. We tried to venture to check out the nightlife scene and walked to a nightclub called Boom, but weren’t really feeling it.
 
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4783/40598805892_66f1c94d05.jpg)Sydney Harbor
 
@@ -102,4 +102,4 @@ We grabbed a quick breakfast at Ray’s Cafe (in our hostel) and met Tom to go t
 <div class="wp-caption alignnone" style="width: 510px">![](https://farm5.staticflickr.com/4665/38830711410_c6a91753a4.jpg)Sydney Opera House
 
 </div>**Wednesday, February 21**  
-We trekked to the airport for our flight home (with another layover in LAX). On the first leg, I watched *Young Victoria*, *The Queen*, *The Zookeepers Wife, and Grace Jones: Bloodlight and Bami.* And so, I return to Brooklyn with a renewed travel itch. Next time I visit Oz, I’ll have to see Tasmania, the West Coast, Northern and Southern Australia.
+We trekked to the airport for our flight home (with another layover in LAX). On the first leg, I watched _Young Victoria_, _The Queen_, _The Zookeepers Wife, and Grace Jones: Bloodlight and Bami._ And so, I return to Brooklyn with a renewed travel itch. Next time I visit Oz, I’ll have to see Tasmania, the West Coast, Northern and Southern Australia.
