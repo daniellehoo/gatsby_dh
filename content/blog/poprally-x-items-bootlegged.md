@@ -24,7 +24,7 @@ post_format: []
 ---
 ![](https://farm5.staticflickr.com/4710/26594622978_a3081656c8.jpg)
 
-Artist Mackenzie Younger, front, center in the jacket he designed for the event, photo by Alycia Kravitz
+    Artist Mackenzie Younger, front, center in the jacket he designed for the event, photo by Alycia Kravitz
 
 ![](https://farm5.staticflickr.com/4667/39569290315_bf2cbeeab7.jpg)
 
