@@ -1,6 +1,6 @@
 ---
 title: Sotheby's Institute of Art
-date: 2013-09-12T00:46:10+00:00
+date: 2013-09-12T00:46:10.000+00:00
 status: publish
 permalink: "/sothebys-institute-of-art"
 author: Danielle
@@ -17,9 +17,10 @@ tag:
 post_format: []
 
 ---
-<div class="wp-caption alignnone" style="width: 650px">![](http://farm8.staticflickr.com/7408/9728892332_ff1b49f501_z.jpg)Andy Warhol *Queen Elizabeth II of the United Kingdom,* 1985
+  
+![](http://farm8.staticflickr.com/7408/9728892332_ff1b49f501_z.jpg)Andy Warhol _Queen Elizabeth II of the United Kingdom,_ 1985
 
-</div>After an impromptu, last minute decision to apply to Sotheby’s Institute of Art’s Master’s program in Contemporary Art (and more importantly receiving admission), I am currently pursing my Master’s degree in art history. I was originally slated to go to NYU’s Institute of Fine Arts to study Italian Renaissance Art, but I decided to switch gears and go a slightly different route at Sotheby’s. While I still love the realism and religious subject matter of Italian Renaissance Art and it will always hold a special place in my heart because I studied abroad in Florence back in 2008, professionally and in terms of practicality this move is the right one.
+After an impromptu, last minute decision to apply to Sotheby’s Institute of Art’s Master’s program in Contemporary Art (and more importantly receiving admission), I am currently pursing my Master’s degree in art history. I was originally slated to go to NYU’s Institute of Fine Arts to study Italian Renaissance Art, but I decided to switch gears and go a slightly different route at Sotheby’s. While I still love the realism and religious subject matter of Italian Renaissance Art and it will always hold a special place in my heart because I studied abroad in Florence back in 2008, professionally and in terms of practicality this move is the right one.
 
 A little bit about SIA: the New York branch just opened in 2006, so the program is still in its infancy. The specific program I’m in focuses on Post-War art (1945-present) and walks students through theoretical and analytical methods to approaching art. Students have the option of completing a third semester in London or New York or they can opt to write a thesis during the summer/early fall following their second semester. This semester my classes include: Contemporary Art: 1945-Present, Theories of Post-War Art, Research Methodologies: Writing about Contemporary Art and The Work of Art, from Studio to Museum.
 
