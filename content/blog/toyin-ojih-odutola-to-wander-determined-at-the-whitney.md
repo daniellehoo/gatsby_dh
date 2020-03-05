@@ -29,6 +29,6 @@ In her current solo exhibition at the Whitney (her first solo show in New York) 
 
 _Toyin Ojih Odutola: To Wander Determined_ presents a new body of work alongside a small selection of earlier works, produced in the last year. The exhibition is on view in the John R. Eckel, Jr. Foundation Gallery on the Whitney’s first floor, which is free and open to the public. When I worked out where to find this gallery (since I had actually never been to it before due to it’s sort of tucked away locale), it made me question the meaning of the exhibition placement in the large context of the Whitney. If you’re giving this artist a, to use a Solange reference, seat at the table, is there such a thing as a sub-par seat?
 
-![]( <a data-flickr-embed="true" href="https://www.flickr.com/gp/daniellehoo/9ja0aZ" title="large_TO16.042_Winter_https://live.staticflickr.com/4574/38730225701_d447dd4b24_b.jpg)
+![](https://live.staticflickr.com/4574/38730225701_d447dd4b24_b.jpg)
 
 Toyin Ojih Odutola, Winter Dispatch, 2016
