@@ -1,42 +1,50 @@
 ---
-title: 'London, Copenhagen, and Stockholm'
-date: '2017-06-21T02:31:17+00:00'
+title: London, Copenhagen, and Stockholm
+date: 2017-06-21T02:31:17+00:00
 status: publish
-permalink: /london-copenhagen-and-stockholm
+permalink: "/london-copenhagen-and-stockholm"
 author: Danielle
 excerpt: ''
 type: post
-id: 998
+id: "998"
 category:
-    - 'Contemporary Art'
-    - Europe
-    - Travel
+- Contemporary Art
+- Europe
+- Travel
 tag: []
 post_format: []
+
 ---
-<div class="wp-caption alignnone" style="width: 650px">![](https://c1.staticflickr.com/5/4281/35435593185_4e9b967937_z.jpg)Stockholm
+  
+![](https://c1.staticflickr.com/5/4281/35435593185_4e9b967937_z.jpg)Stockholm
 
-</div><div class="wp-caption alignnone" style="width: 650px">![](https://c1.staticflickr.com/5/4265/35435592285_0b74d5b8ed_z.jpg)Copenhagen
+  
+![](https://c1.staticflickr.com/5/4265/35435592285_0b74d5b8ed_z.jpg)Copenhagen
 
-</div>I just returned from a trip more than a year in the making with two dear friends (S and K) to London, Copenhagen, and Stockholm. The trip was a much needed reprieve from New York and the work grind.
+I just returned from a trip more than a year in the making with two dear friends (S and K) to London, Copenhagen, and Stockholm. The trip was a much needed reprieve from New York and the work grind.
 
 A funny (read: annoying) thing happened to my while I was away: my DSLR started giving me an error message and although it still captured pictures–they came out super dark. I didn’t realize it was busted before I left the States and the problem persisted throughout the trip. So some of the images I include here have lost a bit of their integrity, but gained a ’70s analog aesthetic. Thankfully most were salvageable with some Photoshop work. The others were taken on my iPhone.
 
-<div class="wp-caption alignnone" style="width: 632px">![](https://c1.staticflickr.com/5/4227/34626096643_c931233b59_z.jpg)Grayson Perry
+  
+![](https://c1.staticflickr.com/5/4227/34626096643_c931233b59_z.jpg)Grayson Perry
 
-</div>**Friday, June 9**
+**Friday, June 9**
 
 Our flight got into London in the morning–leaving us a full day to wander the city. After a nap to overcome the jet lag and a snack, S hung back with her sister (who hosted us) while K and I navigated the underground/tube and made our way (quite ambitiously) to the Serpentine Galleries (where we saw amazing works by U.K. artist and Turner recipient, Grayson Perry and LA artist Arthur Jafa), Hyde Park, The National Portrait Gallery, and the Tate Modern. S’s sister hosted a barbecue for us + her in-laws (in-town from the States) and their friend. It was a lovely night of wine and grilling with a lot of discussion re: art (also discussing the new Tate viewing deck that looks straight into the living rooms of high-priced London flats) and politics and the Sound of Music and the Holocaust.
 
-<div class="wp-caption alignnone" style="width: 490px">![](https://c1.staticflickr.com/5/4228/35435590885_e3b26832b0_z.jpg)Dreamland Margate
+  
+![](https://c1.staticflickr.com/5/4228/35435590885_e3b26832b0_z.jpg)
 
-</div>**Saturday, June 10**
+Dreamland Margate
 
-The real impetus for our trip was Demon Dayz: the musical festival hosted by Gorillaz/Damon Albarn featuring most of the artists on their new album *Humanz.* The festival was at Dreamland at Margate–a seaside theme park similar to Coney Island (only better maintained/not as creepy). We got on a bus and made our way to Margate from London (about an hour and 45 minute drive) where we had the best fish and chips (no exaggeration), ate way too much cotton candy, got a sunburn, waited in line for over an hour for a dinner of fried chicken sandwiches and fries, rode the wooden roller coaster, and the ferris wheel and jammed to Damon and co. into the night.
+**Saturday, June 10**
 
-<div class="wp-caption alignnone" style="width: 650px">![](https://c1.staticflickr.com/5/4201/35435590685_a0ac68c8fa_z.jpg)Tivoli
+The real impetus for our trip was Demon Dayz: the musical festival hosted by Gorillaz/Damon Albarn featuring most of the artists on their new album _Humanz._ The festival was at Dreamland at Margate–a seaside theme park similar to Coney Island (only better maintained/not as creepy). We got on a bus and made our way to Margate from London (about an hour and 45 minute drive) where we had the best fish and chips (no exaggeration), ate way too much cotton candy, got a sunburn, waited in line for over an hour for a dinner of fried chicken sandwiches and fries, rode the wooden roller coaster, and the ferris wheel and jammed to Damon and co. into the night.
 
-</div>**Sunday, June 11**   
+  
+![](https://c1.staticflickr.com/5/4201/35435590685_a0ac68c8fa_z.jpg)Tivoli
+
+**Sunday, June 11**  
 In the morning, we flew from London to Copenhagen. Because we simply did not consume enough sugar or amusement park fun at Margate, the first thing we did upon arrival in Copenhagen was visit Tivoli Gardens. Our hotel/hostel was located right next to the train station so we were a mere stones throw away from Tivoli. For a flat entrance fee we were able to go on an unlimited amount of rides. We also consumed way too much licorice and had burgers, hot dogs, and fries for dinner. In addition to riding all of the roller coasters, we also went on the Hans Christensen Anderson ride, and had a session of bumper cars where we were the only three in the rink.
 
 ![](https://c1.staticflickr.com/5/4283/35435591755_914bddbedd_z.jpg)
