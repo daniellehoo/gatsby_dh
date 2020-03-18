@@ -18,6 +18,8 @@ Frieze highlights:
 
 ![](https://live.staticflickr.com/7433/27517449386_0c315d39b8_b.jpg)
 
+***
+
 Galerie Eigen + Art
 
 ![](https://live.staticflickr.com/7289/27517449446_7e1e2a902b_b.jpg)
