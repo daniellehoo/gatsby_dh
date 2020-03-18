@@ -16,8 +16,9 @@ tag: []
 post_format: []
 
 ---
-  
-![](http://farm8.staticflickr.com/7408/9540006193_db4279e7d6_z.jpg)5 Pointz, Long Island City
+![](http://farm8.staticflickr.com/7408/9540006193_db4279e7d6_z.jpg)
+
+5 Pointz, Long Island City
 
 One of the really great parts about living in Long Island City is the close proximity to contemporary art galleries and venues. In addition to the waterfront views, an abundance of authentic ethnic restaurants, and the [Gantry Plaza State Park](http://nysparks.com/parks/149/), LIC houses a small, but concentrated offering of art, perhaps only second to Manhattan. The list includes: MoMA PS1, 5 Pointz, Socrates Sculpture Garden, the Museum of the Moving Image, the Noguchi Museum, and several other, smaller galleries.
 
