@@ -1,26 +1,29 @@
 ---
 title: 'Marina Abramović: The Artist is Present'
-date: '2013-08-13T19:04:14+00:00'
+date: 2013-08-13T19:04:14+00:00
 status: publish
-permalink: /marina-abramovic-the-artist-is-present
+permalink: "/marina-abramovic-the-artist-is-present"
 author: Danielle
 excerpt: ''
 type: post
-id: 296
+id: "296"
 category:
-    - MoMA
-    - Museums
-    - 'New York'
-    - 'Performance Art'
+- MoMA
+- Museums
+- New York
+- Performance Art
 tag:
-    - Jay-Z
-    - MoMA
-    - 'Performance Art'
+- Jay-Z
+- MoMA
+- Performance Art
 post_format: []
----
-<div class="wp-caption alignnone" id="attachment_298" style="width: 310px">[![Marina Abramović (Source: moma.org)](http://www.daniellehoo.com/wp-content/uploads/2013/08/marina-300x298.jpg)](http://www.daniellehoo.com/wp-content/uploads/2013/08/marina.jpg)Marina Abramović (Source: moma.org)
 
-</div>**“Performance \[has\] never been a regular form of art, it’s been \[an\] alternative \[form\] since I was born. I want it really to be a real form of art in a respect, before I die.”**
+---
+![](https://news.artnet.com/app/news-upload/2018/05/abramovic_artist-present-2-1024x1024.jpg)
+
+Marina Abramović (Source: moma.org)
+
+**“Performance \[has\] never been a regular form of art, it’s been \[an\] alternative \[form\] since I was born. I want it really to be a real form of art in a respect, before I die.”**
 
 Serbian performance artist, Marina Abramović, 66, has been active in her career since the 1970s. Her works are direct, bold and sometimes violent. She tests the limits of the human body, often employing fasting, silence and inaction for prolonged periods of time. She challenges the audience because of the level of discomfort that may accompany viewership. Performance art uses time, space and sometimes other mediums to facilitate a relationship between the viewer and the performer. I had the opportunity to view the artist’s work during undergrad in New York back in 2010, when [The Artist is Present](http://www.moma.org/visit/calendar/exhibitions/965) was being exhibited at the MoMA.
 
