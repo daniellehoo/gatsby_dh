@@ -1,23 +1,24 @@
 ---
 title: 'Letter to a Refusing Pilot: Akram Zaatari at the Venice Biennale'
-date: '2013-11-02T22:24:37+00:00'
+date: 2013-11-02T22:24:37+00:00
 status: publish
-permalink: /letter-to-a-refusing-pilot-akram-zaatari-at-the-venice-biennale
+permalink: "/letter-to-a-refusing-pilot-akram-zaatari-at-the-venice-biennale"
 author: Danielle
 excerpt: ''
 type: post
-id: 544
+id: "544"
 category:
-    - 'Contemporary Art'
-    - Italy
-    - 'Venice Biennale'
-    - 'Video Art'
+- Contemporary Art
+- Italy
+- Venice Biennale
+- Video Art
 tag: []
 post_format: []
----
-<div class="wp-caption alignnone" style="width: 650px">![](http://farm6.staticflickr.com/5502/10618834014_9218df459d_z.jpg)Lebanese Pavilion, Arsenale
 
-</div>Last week I traveled to Venice, Italy for the 55th Biennale with Sotheby’s. Everyone in my program had to present on either an artist or national pavilion and I presented on the Lebanese Pavilion at the Arsenale. The artist chosen to represent Lebanon is Akram Zaatari, 47, an archival artist, historian, film-maker, photographer and curator. The message behind his piece, “Letter to a Refusing Pilot” is simply beautiful. The work is a 35 minute film and video installation. Zaatari, who was born in Sidon, Lebanon and is currently based in Beirut, explores issues pertinent to the post-war Lebanon condition. Lebanon was present in the Venice Biennale for the first time in 2007 and returns this year after being absent in 2009 and 2011.
+---
+![](http://farm6.staticflickr.com/5502/10618834014_9218df459d_z.jpg)Lebanese Pavilion, Arsenale
+
+Last week I traveled to Venice, Italy for the 55th Biennale with Sotheby’s. Everyone in my program had to present on either an artist or national pavilion and I presented on the Lebanese Pavilion at the Arsenale. The artist chosen to represent Lebanon is Akram Zaatari, 47, an archival artist, historian, film-maker, photographer and curator. The message behind his piece, “Letter to a Refusing Pilot” is simply beautiful. The work is a 35 minute film and video installation. Zaatari, who was born in Sidon, Lebanon and is currently based in Beirut, explores issues pertinent to the post-war Lebanon condition. Lebanon was present in the Venice Biennale for the first time in 2007 and returns this year after being absent in 2009 and 2011.
 
 The story told in “Letter to a Refusing Pilot” is non-linear and uses over 5 decades of the artist’s personal materials. When Zaatari, was 16 years old in 1982, a rumor circulated around his small town in Southern Lebanon, which was then occupied by Israeli forces. The rumor stated that an Israeli fighter pilot had received orders to bomb a target on the outskirts of Saida, but the pilot, knowing that the target was a school, refused to carry out the mission, went against orders, swerved off-course and dropped his bomb into the sea. The rumor maintained that the pilot knew the target was a school because he was a former student there and that his family had lived in the city for generations because he was born into the Saida-Jewish community before it disappeared.
 
