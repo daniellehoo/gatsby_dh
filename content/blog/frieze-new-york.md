@@ -18,7 +18,9 @@ Frieze highlights:
 
 <div class="wp-caption alignnone" style="width: 604px">![](https://c3.staticflickr.com/8/7741/27453138602_d10aea15d8_z.jpg)Galerie Eigen + Art
 
-</div><div class="wp-caption alignnone" style="width: 496px">![](https://c7.staticflickr.com/8/7289/27517449446_d2fd201fc6_z.jpg)Katz
+![](https://live.staticflickr.com/7289/27517449446_7e1e2a902b_b.jpg)
+
+Katz
 
 ![](https://live.staticflickr.com/7378/27275166530_af63631b64_b.jpg)
 
