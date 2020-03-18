@@ -55,6 +55,6 @@ After a successful quest to obtain a print version of the New York Times (to rea
   
 ![](https://c4.staticflickr.com/9/8099/28549520683_75f58bd027_z.jpg)Future
 
-In the evening: it’s the Drake/Future Summer Sixteen show at the Bridgestone Arena. A girl two rows in front of us wears her sunglasses and Snapshats videos of herself all night. Drake mentions that tomorrow is his day off and that he’s looking to hang out with a lucky lady tonight–even if it’s just to chill and get drinks. He says Nashville is like home since his pops is from Memphis. He also gives a nod to Shania Twain who was in the audience. Doors are at 6:30 and the show ends around 11:30.
+In the evening: it’s the Drake/Future Summer Sixteen show at the Bridgestone Arena. A girl two rows in front of us wears her sunglasses and Snapchats videos of herself all night. Drake mentions that tomorrow is his day off and that he’s looking to hang out with a lucky lady tonight–even if it’s just to chill and get drinks. He says Nashville is like home since his pops is from Memphis. He also gives a nod to Shania Twain who was in the audience. Doors are at 6:30 and the show ends around 11:30.
 
 Notes: Nashville, you were fun, but a little bit too racist for me. Complete lack of ‘diversity’ and too many Trump vibes outside of East Nashville.
