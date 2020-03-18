@@ -16,7 +16,7 @@ post_format: []
 ---
 Frieze highlights:
 
-![](https://live.staticflickr.com/7433/27517449386_0c315d39b8_b.jpg) 
+![](https://live.staticflickr.com/7433/27517449386_0c315d39b8_b.jpg)
 
 Galerie Eigen + Art
 
@@ -28,10 +28,10 @@ Katz
 
 Raymond Hains
 
-  
-![](https://c8.staticflickr.com/8/7716/27479812231_7f905c5096_z.jpg)Cornelia Parker
+![](https://c8.staticflickr.com/8/7716/27479812231_7f905c5096_z.jpg)
 
-  
+Cornelia Parker
+
 ![](https://live.staticflickr.com/7502/27453138572_1789b707e1_b.jpg)
 
 Dennis Oppenheim
