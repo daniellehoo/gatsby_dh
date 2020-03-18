@@ -18,7 +18,8 @@ post_format: []
 
 ---
   
-![](https://live.staticflickr.com/65535/49674117081_5128c092d3_z.jpg)
+![](https://live.staticflickr.com/65535/49674117081_5128c092d3_z.jpg)  
+![](https://live.staticflickr.com/65535/49673574963_80349ef2ab_z.jpg)
 
 “Aten Reign,” James Turrell at the Guggenheim
 
