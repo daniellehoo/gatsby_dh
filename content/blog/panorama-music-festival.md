@@ -15,8 +15,9 @@ tag:
 post_format: []
 
 ---
-  
-![](https://c1.staticflickr.com/9/8573/28724360840_e77008a53b_z.jpg)Run the Jewels
+![](https://c1.staticflickr.com/9/8573/28724360840_e77008a53b_z.jpg)
+
+Run the Jewels
 
 **Panorama 2016: July 22, 23 & 24 @ Randall’s Island Park**
 
