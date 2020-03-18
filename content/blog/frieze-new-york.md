@@ -16,7 +16,9 @@ post_format: []
 ---
 Frieze highlights:
 
-<div class="wp-caption alignnone" style="width: 604px">![](https://c3.staticflickr.com/8/7741/27453138602_d10aea15d8_z.jpg)Galerie Eigen + Art
+![](https://live.staticflickr.com/7433/27517449386_0c315d39b8_b.jpg) 
+
+Galerie Eigen + Art
 
 ![](https://live.staticflickr.com/7289/27517449446_7e1e2a902b_b.jpg)
 
