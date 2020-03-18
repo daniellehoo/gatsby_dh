@@ -20,7 +20,9 @@ post_format: []
 
 My parents came to the city from Connecticut to see the [Hopper Drawing exhibit](http://whitney.org/Exhibitions/HopperDrawing) during its last few days at The Whitney. Currently there’s also a [Robert Indian exhibit (Beyond Love)](http://whitney.org/Exhibitions/RobertIndiana) running though January 5, 2014 and a [T.J. Wilcox (In the Air) video instillation](http://whitney.org/Exhibitions/TJWilcox) running through February 9, 2014 at the museum. My mother was **_very_** excited about seeing the Hopper exhibit before it closes on Sunday. The collection highlights the drawings and creative process of American realist painter and printmaker, Edward Hopper (1882-1967). Since we’re often viewing the final work products of painters, we tend to forget the work involved that goes into making a finished piece.
 
-![](http://farm4.staticflickr.com/3767/10093221243_c447e31b95_z.jpg)Perkins Youngboy Dos Passos, 1941, Fabricated chalk on paper
+![](https://live.staticflickr.com/3767/10093221243_c447e31b95_b.jpg)
+
+Perkins Youngboy Dos Passos, 1941, Fabricated chalk on paper
 
 The following drawing and painting series reminds me of Vista Market in Pound Ridge, NY.
 
