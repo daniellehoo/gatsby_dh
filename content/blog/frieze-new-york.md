@@ -20,7 +20,9 @@ Frieze highlights:
 
 </div><div class="wp-caption alignnone" style="width: 496px">![](https://c7.staticflickr.com/8/7289/27517449446_d2fd201fc6_z.jpg)Katz
 
-</div><div class="wp-caption alignnone" style="width: 650px">![](https://c3.staticflickr.com/8/7378/27275166530_17336bfdf5_z.jpg)Raymond Hains
+![](https://live.staticflickr.com/7378/27275166530_af63631b64_b.jpg)
+
+Raymond Hains
 
   
 ![](https://c8.staticflickr.com/8/7716/27479812231_7f905c5096_z.jpg)Cornelia Parker
