@@ -1,26 +1,30 @@
 ---
-title: 'Dubrovnik, Croatia'
-date: '2013-08-03T18:44:52+00:00'
+title: Dubrovnik, Croatia
+date: 2013-08-03T18:44:52+00:00
 status: publish
-permalink: /dubrovnik-croatia
+permalink: "/dubrovnik-croatia"
 author: Danielle
 excerpt: ''
 type: post
-id: 245
+id: "245"
 category:
-    - Croatia
-    - Europe
-    - Travel
+- Croatia
+- Europe
+- Travel
 tag:
-    - Croatia
-    - Dubrovnik
-    - Europe
-    - Travel
+- Croatia
+- Dubrovnik
+- Europe
+- Travel
 post_format: []
----
-<div class="wp-caption alignnone" id="attachment_247" style="width: 310px">[![Dubrovnik, Croatia](http://www.daniellehoo.com/wp-content/uploads/2013/08/Dubrovnik-copy-300x225.jpg)](http://www.daniellehoo.com/wp-content/uploads/2013/08/Dubrovnik-copy.jpg)Dubrovnik, Croatia
 
-</div>I’m having a bit of difficulty writing about Dubrovnik because there are so many good things to say about it and I want to be able to properly express how wonderful this city is without missing any important details. I have a good general overview of the staple Western European cities (Rome, Paris, Venice, Barcelona, Florence, London, Dublin, Amsterdam) and even though Dubrovnik doesn’t fit into the Western European city category, it may be one of my favorite European cities overall. The only other Eastern European city I’ve visited is Prague, but in my opinion, Dubrovnik blows Prague out of the water. Prague was beautiful, but Dubrovnik is almost like a theme park at times.
+---
+  
+![](https://live.staticflickr.com/65535/49673594008_93a52954ae_z.jpg)
+
+Dubrovnik, Croatia
+
+I’m having a bit of difficulty writing about Dubrovnik because there are so many good things to say about it and I want to be able to properly express how wonderful this city is without missing any important details. I have a good general overview of the staple Western European cities (Rome, Paris, Venice, Barcelona, Florence, London, Dublin, Amsterdam) and even though Dubrovnik doesn’t fit into the Western European city category, it may be one of my favorite European cities overall. The only other Eastern European city I’ve visited is Prague, but in my opinion, Dubrovnik blows Prague out of the water. Prague was beautiful, but Dubrovnik is almost like a theme park at times.
 
 **General overview:** it’s clean, it’s safe, the landscape is overwhelming, there are good beaches, there’s good public transportation, it’s a walking city, it’s easy to navigate, it’s a good central hub and easy to take day trips to neighboring counties, the people are friendly, there’s good nightlife, there’s good food, the natives are happy, and I’d definitely visit again. Most of the people we encountered during our stay were making their way up the Croatian coast and I do regret not being able to do that this trip. Dubrovnik is usually the starting point and then people make their way up to Split and Hvar.
 
