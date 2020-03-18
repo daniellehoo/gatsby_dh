@@ -26,7 +26,7 @@ Katz
 
 ![](https://live.staticflickr.com/7378/27275166530_af63631b64_b.jpg)
 
-Raymond Hains
+Raymond Hains 
 
 ![](https://c8.staticflickr.com/8/7716/27479812231_7f905c5096_z.jpg)
 
