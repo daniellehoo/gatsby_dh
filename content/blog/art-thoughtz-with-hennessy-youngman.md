@@ -1,26 +1,25 @@
 ---
-title: 'Art Thoughtz with Hennessy Youngman'
-date: '2013-09-23T18:25:02+00:00'
+title: Art Thoughtz with Hennessy Youngman
+date: 2013-09-23T18:25:02+00:00
 status: publish
-permalink: /art-thoughtz-with-hennessy-youngman
+permalink: "/art-thoughtz-with-hennessy-youngman"
 author: Danielle
 excerpt: ''
 type: post
-id: 450
+id: "450"
 category:
-    - Brooklyn
-    - 'Contemporary Art'
-    - 'New York'
+- Brooklyn
+- Contemporary Art
+- New York
 tag: []
 post_format: []
+
 ---
-<div class="wp-caption alignnone" style="width: 570px">![](http://farm8.staticflickr.com/7450/9886830636_88c1691174_z.jpg)Jayson Musson aka Hennessy Youngman
+![](http://farm8.staticflickr.com/7450/9886830636_88c1691174_z.jpg)Jayson Musson aka Hennessy Youngman
 
-</div>In my “The Work of Art from Studio to Museum” class, I was introduced to the artist [Jayson Musson](http://www.jaysonmusson.com/welcomemat.html) (aka Hennessy Youngman). He’s currently based in Brooklyn, but he’s from the Bronx and he holds a BFA in photography from the University of the Arts in Philadelphia and an MFA in painting from the University of Pennsylvania. In his internet videos titled “Art Thoughtz” on [YouTube](https://www.youtube.com/user/HennesyYoungman) and [Vimeo](http://vimeo.com/hennessyyoungman), he takes on the persona of his alter-ego, Hennessy Youngman, while targeting various art topics and playing the role of an art critic or cultural commentator. His witty monologues poke fun at different movements, notions, pop culture references and artists (there’s one specific piece dedicated to criticizing everyone’s favorite punching bag: [Damien Hirst](https://www.youtube.com/watch?v=5y_8DWg5W0w)).
+In my “The Work of Art from Studio to Museum” class, I was introduced to the artist [Jayson Musson](http://www.jaysonmusson.com/welcomemat.html) (aka Hennessy Youngman). He’s currently based in Brooklyn, but he’s from the Bronx and he holds a BFA in photography from the University of the Arts in Philadelphia and an MFA in painting from the University of Pennsylvania. In his internet videos titled “Art Thoughtz” on [YouTube](https://www.youtube.com/user/HennesyYoungman) and [Vimeo](http://vimeo.com/hennessyyoungman), he takes on the persona of his alter-ego, Hennessy Youngman, while targeting various art topics and playing the role of an art critic or cultural commentator. His witty monologues poke fun at different movements, notions, pop culture references and artists (there’s one specific piece dedicated to criticizing everyone’s favorite punching bag: [Damien Hirst](https://www.youtube.com/watch?v=5y_8DWg5W0w)).
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="315" width="560"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="//www.youtube.com/v/vVFasyCvEOg?hl=en_US&version=3"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" allowscriptaccess="always" height="315" src="//www.youtube.com/v/vVFasyCvEOg?hl=en_US&version=3" type="application/x-shockwave-flash" width="560"></embed></object>
-
-“[How to Make An Art](https://www.youtube.com/watch?v=vVFasyCvEOg),” (embedded above), which was posted back in 2011, is the quintessential Hennessy Youngman piece, offering a comedic introduction/surface scratching work summarizing the age old question of “What is Art?”
+“[How to Make An Art](https://www.youtube.com/watch?v=vVFasyCvEOg),” which was posted back in 2011, is the quintessential Hennessy Youngman piece, offering a comedic introduction/surface scratching work summarizing the age old question of “What is Art?”
 
 ![](http://farm3.staticflickr.com/2825/9901188983_c487d62316_z.jpg)
 
