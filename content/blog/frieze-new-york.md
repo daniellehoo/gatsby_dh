@@ -1,17 +1,18 @@
 ---
-title: 'Frieze New York'
-date: '2016-05-08T01:09:40+00:00'
+title: Frieze New York
+date: 2016-05-08T01:09:40+00:00
 status: publish
-permalink: /frieze-new-york
+permalink: "/frieze-new-york"
 author: Danielle
 excerpt: ''
 type: post
-id: 830
+id: "830"
 category:
-    - 'Art Fairs'
-    - 'New York'
+- Art Fairs
+- New York
 tag: []
 post_format: []
+
 ---
 Frieze highlights:
 
@@ -21,10 +22,14 @@ Frieze highlights:
 
 </div><div class="wp-caption alignnone" style="width: 650px">![](https://c3.staticflickr.com/8/7378/27275166530_17336bfdf5_z.jpg)Raymond Hains
 
-</div><div class="wp-caption alignnone" style="width: 446px">![](https://c8.staticflickr.com/8/7716/27479812231_7f905c5096_z.jpg)Cornelia Parker
+  
+![](https://c8.staticflickr.com/8/7716/27479812231_7f905c5096_z.jpg)Cornelia Parker
 
-</div><div class="wp-caption alignnone" style="width: 584px">![](https://c5.staticflickr.com/8/7502/27453138572_0ef394351d_z.jpg)Dennis Oppenheim
+  
+![](https://live.staticflickr.com/7502/27453138572_1789b707e1_b.jpg)
 
-</div><div class="wp-caption alignnone" style="width: 613px">![](https://c7.staticflickr.com/8/7648/27453138502_b84f96a3bb_z.jpg)Doug Aitken
+Dennis Oppenheim
 
-</div>
+![](https://live.staticflickr.com/7648/27453138502_96fecbd575_b.jpg)
+
+Doug Aitken
