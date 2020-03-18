@@ -34,7 +34,8 @@ The furniture (mostly designed by Miles van der Rohe) and the majority of pieces
 
 The collection seems to be ‘curated’ with minimalist and Mediterranean themes in mind. The sculpture gallery was modeled with Renaissance/Baroque elements of the staircase, reminiscent of a village in the Greek isles. The repetitive geometric patterns throughout the compound—the pool is circular, as are the shapes in the ceiling of the art gallery, the windows of the Brick House and the Donald Judd sculpture at the bottom of the driveway— and the many Frank Stella pieces belonging to the permanent collection, speak to the minimalist qualities of the estate.
 
-  
-![](http://farm4.staticflickr.com/3819/10055425706_2bf8683ec2_z.jpg%20)Part of E.V. Day’s SNAP! exhibition
+![](http://farm4.staticflickr.com/3819/10055425706_2bf8683ec2_z.jpg%20)
+
+Part of E.V. Day’s SNAP! exhibition
 
 While the collection itself is an impressive array of works pulled from the hands and minds of renowned artists, there is a somewhat eerie quality to a compound absent of its original owner, aside from an Andy Warhol screen printed tribute of the architect in his art gallery. Johnson’s original intention in donating the Glass House to the National Trust for Historic Preservation was to ensure public access to his estate, thus cementing and immortalizing his legacy and glorifying the self. Since this is the first private collection I have seen, I have no point of comparison, but I would imagine that most collections give off the same peculiar feel—the personal touch and craftsmanship of one brilliant, late man’s life work, purposefully assembled and preserved in order to perpetuate his legendary status and pay tribute to his oeuvre.
