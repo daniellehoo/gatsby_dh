@@ -14,11 +14,9 @@ tag: []
 post_format: []
 
 ---
-  
 ![](http://farm8.staticflickr.com/7396/10969874914_d93206baae_z.jpg)Icebox (1963)
 
-[**Peter Saul at the Mary Boone Gallery  
-**](http://www.maryboonegallery.com/index.html)_Paintings from the 60s and 70s (1 November to 21 December 2013)_
+[Peter Saul at the Mary Boone Gallery](http://www.maryboonegallery.com/index.html) _Paintings from the 60s and 70s (1 November to 21 December 2013)_
 
 Give someone who is under the influence of psychedelics a large canvas, a spectrum of acrylic paint, some Sharpies and no written instructions. If they are not too busy running away from neon jungle predators, the end result may look a lot like a Peter Saul piece. The depiction of familiar childhood cartoons in adult situations and the incorporation of Dayglow colors into interpretations of historical masterpieces map Saul’s works as a hybrid between Pop Art and Surrealism.
 
@@ -26,7 +24,6 @@ It’s almost impossible to discern any deeper meaning or even suggest a linear 
 
 The color schemes are reminiscent of Pop Art, but select pieces, given their subject matter and situational content, radiate an automatist, surrealist feeling that seems to be uncalculated and derived straight from the unconscious. With a knack for “the lurid, the tasteless, the violent, the political – with a heavy gloss of absurdist humor,” according to the press release put out by the Mary Boone gallery, the exhibition occupies the space between amateur figurative painting and 1970s smut magazine cartoons. Dollar signs, bodily fluids, and cigarettes are sprinkled throughout the works, alongside depictions of murder and crucifixion. The overtly political piece, _Vietnam_ (1966) falls short when it comes to offering an effective commentary with its Dr. Seuss-like caricature portrayal of real world events.
 
-  
 ![](http://farm4.staticflickr.com/3813/10969874774_cf36a3b558_z.jpg)Nightwatch (1974)
 
 The largest work in the collection, _Nightwatch_ (1974), honors the Old Masters, while reinventing Rembrandt’s classic painting with neon hues. In a similar vein, _Napoleon Crossing the Alps_ (1976-77) shows the noble Frenchman mischievously shooting his surname into the ground with a revolver, while riding a bucking horse. These later, straightforward and more captivating pieces attempt to make up for the comparatively more lowbrow, weaker links in the collection, but the deadweight is too much of a cross to bear.
