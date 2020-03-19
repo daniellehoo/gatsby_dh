@@ -8,10 +8,13 @@ class BlogIndex extends React.Component {
     const { data } = this.props;
 
     return (
-      <Layout location={this.props.location}>
-        <Bio />
-        <Link to='/posts'><button>See All Posts</button></Link>
-      </Layout>
+
+<div>
+<Bio />
+<Link to='/posts'><button>See All Posts</button></Link>
+
+</div>      
+      
     )
   }
 };

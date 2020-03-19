@@ -16,7 +16,6 @@ const Bio = () => {
 
   return (
     <div>
-    <h1>Danielle's Blog</h1>
     </div>
   )
 }
