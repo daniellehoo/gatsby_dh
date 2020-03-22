@@ -6,15 +6,15 @@ import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata.title;
+  const { prev, next } = pageContext;
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
-        // description={post.frontmatter.description || post.excerpt || ''}
+        description={post.frontmatter.description || post.excerpt || ''}
       />
       <article>
         <header>
@@ -48,6 +48,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       </article>
 
       <nav>
+{        console.log(prev)}
+
         <ul
           style={{
             display: `flex`,
@@ -58,9 +60,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         >
           <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+            {prev && (
+              <Link to={prev.fields.slug} rel="prev">
+                ← {prev.frontmatter.title}
               </Link>
             )}
           </li>
