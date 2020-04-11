@@ -1,5 +1,5 @@
 ---
-title: London and edinburgh
+title: London and Edinburgh
 date: 2018-07-11T04:00:00Z
 status: ''
 permalink: ''
@@ -9,6 +9,7 @@ type: Test things
 id: ''
 category: []
 tag: []
-post_format: []
+post_format:
+- ''
 
 ---
