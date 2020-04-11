@@ -35,3 +35,5 @@ fields:
 - type: list
   name: post_format
   label: post_format
+pages:
+- content/blog/london-and-edinburgh.md
