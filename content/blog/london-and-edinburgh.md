@@ -8,8 +8,12 @@ excerpt: ''
 type: post
 id: ''
 category:
+- london
 - travel
-tag: []
+tag:
+- scotland
+- travel
+- london
 post_format:
 - ''
 
