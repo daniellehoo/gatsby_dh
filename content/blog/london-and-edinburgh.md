@@ -5,11 +5,13 @@ status: ''
 permalink: ''
 author: ''
 excerpt: ''
-type: Test things
+type: post
 id: ''
-category: []
+category:
+- travel
 tag: []
 post_format:
 - ''
 
 ---
+London and Edinburgh
