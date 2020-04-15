@@ -2,6 +2,7 @@ import React from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/layout";
 import Pager from '../components/pager';
+
  
 // export const pageQuery = graphql`
 //   query {

@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 import { rhythm, scale } from "../utils/typography"
+import icon from "../images/cat_icon.png"
+import { CullFaceNone, RectAreaLight } from "three"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -8,45 +10,67 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
-      <h1
-        style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.0),
-          marginTop: 0,
-        }}
-      >
-        <Link
+      <div>
+        <h1
           style={{
-            fontFamily: `Manrope, sans-serif`,
-            boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
+            ...scale(1.5),
+            marginBottom: rhythm(1.0),
+            marginTop: 0,
           }}
-          to={`/`}
         >
-          {title}
-        </Link>
-      </h1>
+          <Link
+            style={{
+              fontFamily: `Manrope, sans-serif`,
+              boxShadow: `none`,
+              textDecoration: `none`,
+              color: `inherit`,
+            }}
+            to={`daniellehoo.com`}
+          >
+            {title}
+          </Link>
+        </h1>
+      </div>
     )
   } else {
     header = (
-      <h3
-        style={{
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            fontFamily: `Manrope, sans-serif`,
-            boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
+      <div style={{
+            marginTop: 0,
+            display: `flex`,
+            justifyContent: `space-between`,
           }}
-          to={`/`}
+            >
+        <h3
+          style={{
+            marginTop: 0,
+          }}
         >
-          {title}
-        </Link>
-      </h3>
+          <Link
+            style={{
+              fontFamily: `Manrope, sans-serif`,
+              boxShadow: `none`,
+              textDecoration: `none`,
+              color: `inherit`,
+            }}
+            to={`www.daniellehoo.com`}
+          >
+            {title}
+          </Link>
+        </h3>
+        <a
+          href={`http://daniellehoo.com`}
+          style={{
+            width: `10%`,
+          }}
+        >
+          <img
+            src={icon}
+            style={{
+              margin: 0,
+            }}
+          />
+        </a>
+      </div>
     )
   }
   return (
@@ -60,6 +84,8 @@ const Layout = ({ location, title, children }) => {
       <body
       style={{
        fontFamily: `Manrope, sans-serif`,
+                     textDecoration: `none`,
+
 
       }}>
       <header>{header}</header>
