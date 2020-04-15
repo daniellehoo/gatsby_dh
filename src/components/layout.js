@@ -22,7 +22,7 @@ const Layout = ({ location, title, children }) => {
             style={{
               fontFamily: `Manrope, sans-serif`,
               boxShadow: `none`,
-              textDecoration: `none`,
+              // textDecoration: `none`,
               color: `inherit`,
             }}
             to={`daniellehoo.com`}
@@ -38,6 +38,7 @@ const Layout = ({ location, title, children }) => {
             marginTop: 0,
             display: `flex`,
             justifyContent: `space-between`,
+
           }}
             >
         <h3
@@ -49,10 +50,9 @@ const Layout = ({ location, title, children }) => {
             style={{
               fontFamily: `Manrope, sans-serif`,
               boxShadow: `none`,
-              textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`www.daniellehoo.com`}
+            to={`http://www.daniellehoo.com`}
           >
             {title}
           </Link>
@@ -61,6 +61,7 @@ const Layout = ({ location, title, children }) => {
           href={`http://daniellehoo.com`}
           style={{
             width: `10%`,
+            textDecoration: `none !important`,
           }}
         >
           <img

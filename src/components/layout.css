@@ -47,7 +47,6 @@ a {
   -webkit-text-decoration-skip: objects;
   font-family: 'Manrope', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: 800;
-  text-decoration: none !important;
 }
 a:active,
 a:hover {
