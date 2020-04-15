@@ -17,6 +17,7 @@ const Layout = ({ location, title, children }) => {
       >
         <Link
           style={{
+            fontFamily: `Manrope, sans-serif`,
             boxShadow: `none`,
             textDecoration: `none`,
             color: `inherit`,
@@ -31,12 +32,12 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
         }}
       >
         <Link
           style={{
+            fontFamily: `Manrope, sans-serif`,
             boxShadow: `none`,
             textDecoration: `none`,
             color: `inherit`,
@@ -51,19 +52,27 @@ const Layout = ({ location, title, children }) => {
   return (
     <div
       style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
+        margin: `0 auto`,
         maxWidth: rhythm(24),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
+      <body
+      style={{
+       fontFamily: `Manrope, sans-serif`,
+
+      }}>
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
-        © Danielle Hoo {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+      <footer style={{
+        margin: `2rem auto 0`,
+        textAlign: `center`,
+        fontWeight: 600,
+      }}>
+        © Danielle Hoo {new Date().getFullYear()}
       </footer>
+
+      </body>
     </div>
   )
 }

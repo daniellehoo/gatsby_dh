@@ -1,6 +1,5 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
-import Bio from "../components/bio";
 import Layout from "../components/layout";
 import Pager from '../components/pager';
  
@@ -69,7 +68,7 @@ const BlogArchive = ({ data, pageContext, location }) => {
                   <h3>
                     <Link to={node.fields.slug}> {title} </Link>
                   </h3>
-                  <small>{node.frontmatter.date}</small>
+                  <h5>{node.frontmatter.date}</h5>
                 </header>
                 <section>
                   <p dangerouslySetInnerHTML={{ __html: node.frontmatter.description || node.excerpt }} />

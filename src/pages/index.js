@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
-import Bio from "../components/bio";
 import Layout from "../components/layout";
+import Archive from "../templates/blog-archive";
 
 class BlogIndex extends React.Component {
   render() {
@@ -9,7 +9,6 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        <Bio />
         <Link to='/posts'><button>See All Posts</button></Link>
       </Layout>
     )
