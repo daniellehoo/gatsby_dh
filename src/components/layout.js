@@ -41,12 +41,15 @@ const Layout = ({ location, title, children }) => {
 
           }}
             >
-        <h3
+        <a
           style={{
-            marginTop: 0,
+            marginTop: `1rem`,
+            padding: 0,
+            fontSize: `2rem`,
           }}
-        >
-          <Link
+          href={`/posts`}
+        >{title}
+          {/* <Link
             style={{
               fontFamily: `Manrope, sans-serif`,
               boxShadow: `none`,
@@ -55,8 +58,8 @@ const Layout = ({ location, title, children }) => {
             to={`http://www.daniellehoo.com`}
           >
             {title}
-          </Link>
-        </h3>
+          </Link> */}
+        </a>
         <a
           href={`http://daniellehoo.com`}
           style={{
