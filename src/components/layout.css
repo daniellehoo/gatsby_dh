@@ -42,12 +42,17 @@ progress {
 template {
   display: none;
 }
+header a {
+  box-shadow: none;
+}
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
   font-family: 'Manrope', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: 800;
+  /* box-shadow: none; */
 }
+
 a:active,
 a:hover {
   outline-width: 0;
