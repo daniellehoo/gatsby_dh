@@ -34,7 +34,7 @@ Met up with my friend Joe (who I met 5 years prior in Croatia) and we all went t
 
 **Sunday, June 24**
 
-I met up with my friend Harry who I met in Thailand, his sister Michaela, his friend visiting from Melbourne, Nick, and their other friend Timmy. We watched thee England/Panama World Cup game (England won 6-1) and then went to the park in Hackney near where Harry lives. 
+I met up with my friend Harry who I met in Thailand, his sister Michaela, his friend visiting from Melbourne, Nick, and their other friend Timmy. We watched thee England/Panama World Cup game (England won 6–1) and then went to the park in Hackney near where Harry lives. 
 
 **Monday, June 25**
 
@@ -54,4 +54,16 @@ Met up with Nick again to go to Camden—we explored the market and went to Plat
 
 **Friday, June 29**
 
-In the evening, Anna and I met up with Harry and Nick at a spot called Nettlehouse 360--a cafe rooftop bar with hipster vibes. We picked up dinner at a spot called Bella Vita and had dinner and beers in the park. After dinner we went to the Dolphin, which is a great dive bar in Hockney--Anna and I sang "Girls Just Want to Have Fun" at karaoke there and hung out with thee boys until around midnight.
+In the evening, Anna and I met up with Harry and Nick at a spot called [Nettlehouse 360](https://netil360.com/ "Nettlehouse 360")—a cafe rooftop bar with hipster vibes. We picked up dinner at a spot called Bella Vita and had dinner and beers in the park. After dinner we went to the Dolphin, which is a great dive bar in Hockney—Anna and I sang "Girls Just Want to Have Fun" at karaoke there and hung out with thee boys until around midnight.
+
+**Saturday, June 30**
+
+**Sunday, July 1**
+
+**Monday, July 2**
+
+**Tuesday, July 3**
+
+**Wednesday, July 4**
+
+**Thursday, July 5**
