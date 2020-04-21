@@ -18,7 +18,7 @@ post_format:
 - ''
 
 ---
-After completing General Assembly's Web Development Immersive bootcamp, I spent about a month in London with my friend Anna who recently moved to a flat in Fitzrovia.
+After completing General Assembly's Web Development Immersive bootcamp, (and unbeknownst to me on the verge of a rough breakup), I spent about a month in London with my friend Anna who recently moved to a flat in the Fitzrovia neighborhood.
 
 **Thursday, June 22**
 
@@ -26,7 +26,7 @@ I arrived to London at around noon, met up with Anna, showered, napped and then 
 
 **Friday, June 22**
 
-I went to the General Assembly campus in Whitechapel and stopped into the Whitechapel Gallery to see some art. That night Anna and I went to Queen of Hoxton in Shoreditch.
+I visited the General Assembly campus in Whitechapel and stopped into the Whitechapel Gallery to see some art. That night Anna and I went to Queen of Hoxton in Shoreditch.
 
 **Saturday, June 23**
 
@@ -54,7 +54,7 @@ Met up with Nick again to go to Camden—we explored the market and went to Plat
 
 **Friday, June 29**
 
-In the evening, Anna and I met up with Harry and Nick at a spot called [Nettlehouse 360](https://netil360.com/ "Nettlehouse 360")—a cafe rooftop bar with hipster vibes. We picked up dinner at a spot called Bella Vita and had dinner and beers in the park. After dinner we went to the Dolphin, which is a great dive bar in Hockney—Anna and I sang "Girls Just Want to Have Fun" at karaoke there and hung out with thee boys until around midnight.
+In the evening, Anna and I met up with Harry and Nick at a spot called [Nettlehouse 360](https://netil360.com/ "Nettlehouse 360")—a cafe rooftop bar with hipster vibes. We picked up dinner at a spot called Bella Vita and had dinner and beers in the park. After dinner we went to the Dolphin, which is a great dive bar in Hockney—Anna and I sang "Girls Just Want to Have Fun" at karaoke there and hung out with the boys until around midnight.
 
 **Saturday, June 30**
 
@@ -70,12 +70,16 @@ We woke up at 1:30 p.m. Harry grilled sausages and we had salad while Adam (Harr
 
 This was Nick's last day in London before heading to Greece, Spain, and Portugal. We met up near next to the National Portrait Gallery and then went to grab a coffee (he has my order of an Americano with almond milk down) and then we got a pint and some fish and chips at Sherlock Holmes pub. I walked him to his tube stop with the parting words "If you're ever in Melbourne!"
 
-**Sunday, July 1**
-
-**Monday, July 2**
-
 **Tuesday, July 3**
+
+I worked on a coding assignment for a job I was in the process of applying for and then in the afternoon went to St. Paul's (just's the exterior) an Tate Modern solo. I bought a bunch of books (including Noam Chomsky on Palestine) and spent a good portion of time in the book shop. While checkout out, I chatted with the shopkeeper about my visit to Palestine. Exploring the city without Nick was a little sad since we were London buddies and had established a habit of hanging out everyday. I
 
 **Wednesday, July 4**
 
 **Thursday, July 5**
+
+**Friday, July 6**
+
+**Saturday, July 7**
+
+**Sunday, July 8**
