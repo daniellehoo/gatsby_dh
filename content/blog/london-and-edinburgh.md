@@ -20,9 +20,9 @@ post_format:
 ---
 After completing General Assembly's Web Development Immersive bootcamp, I spent about a month in London with my friend Anna who recently moved to a flat in Fitzrovia.
 
-**Thursday, June 22  
-  
-**I arrived to London at around noon, met up with Anna, showered, napped and then Anna and I got dinner at a spot near her apt.
+**Thursday, June 22**
+
+I arrived to London at around noon, met up with Anna, showered, napped and then Anna and I got dinner at a spot near her apt.
 
 **Friday, June 22**
 
@@ -34,7 +34,7 @@ Met up with my friend Joe (who I met 5 years prior in Croatia) and we all went t
 
 **Sunday, June 24**
 
-I met up with my friend Harry who I met in Thailand, his sister Michaela, his friend visiting from Melbourne, Nick, and their other friend Timmy. We watched thee England/Panama World Cup game (England won 6–1) and then went to the park in Hackney near where Harry lives. 
+I met up with my friend Harry who I met in Thailand, his sister Michaela, his friend visiting from Melbourne, Nick, and their other friend Timmy. We watched thee England/Panama World Cup game (England won 6–1) and then went to the park in Hackney near where Harry lives.
 
 **Monday, June 25**
 
@@ -42,7 +42,7 @@ Met up with Nick to go to the British Museum. We managed to cover most of the mu
 
 **Tuesday, June 26**
 
-Met up with Nick to go to the London Museum and then got coffee in a park. 
+Met up with Nick to go to the London Museum and then got coffee in a park.
 
 **Wednesday, June 27**
 
@@ -57,6 +57,18 @@ Met up with Nick again to go to Camden—we explored the market and went to Plat
 In the evening, Anna and I met up with Harry and Nick at a spot called [Nettlehouse 360](https://netil360.com/ "Nettlehouse 360")—a cafe rooftop bar with hipster vibes. We picked up dinner at a spot called Bella Vita and had dinner and beers in the park. After dinner we went to the Dolphin, which is a great dive bar in Hockney—Anna and I sang "Girls Just Want to Have Fun" at karaoke there and hung out with thee boys until around midnight.
 
 **Saturday, June 30**
+
+Anna and I went to the Victoria and Albert (V&A) Design Museum to see the Frida Kahlo exhibition, but it was sold out so we just viewed the permanent collection complete with costume/fashion--it's quite an impressive building. 
+
+In the evening, I met up with Harry and Nick and we went to The Alibi in Dalston (which has since closed and reflects a change to the east London club scene brought on by Hackney licensing laws). We danced for quite a while--the bar was a great little hole in the wall establishment. After the Alibi closed we headed to the Dolphin to finish the night out until 4:00 am (a delayed celebration of Harry's birthday). The sun was coming up when we left and I followed the boys back to Harry's flat where we continued to talk and hang out in Harry's yard until the really wee hours in the morning--listening to music and chain smoking cigarettes. 
+
+**Sunday, July 1**
+
+We woke up at 1:30 p.m. Harry grilled sausages and we had salad while Adam (Harry's brother) and Nick watched an Australia Football League (AFL) or 'footy' game on the tube. I made my way back to Anna's and after a shower and a nap we had dinner at East Street (the Asian spot downstairs from her flat). We planned out our trip to Scotland for the following weekend and called it a night.
+
+**Monday, July 2**
+
+This was Nick's last day in London before heading to Greece, Spain, and Portugal. We met up near next to the National Portrait Gallery and then went to grab a coffee (he has my order of an Americano with almond milk down) and then we got a pint and some fish and chips at Sherlock Holmes pub. I walked him to his tube stop with the parting words "If you're ever in Melbourne!"
 
 **Sunday, July 1**
 
