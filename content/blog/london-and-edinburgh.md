@@ -89,4 +89,12 @@ We packed a lot into our one full day in Edinburgh. We started out at the Edinbu
 
 **Saturday, July 7**
 
+Anna and I walked through the streets of Soho after Pride—which were pretty chaotic in a good way. We tried to go to a club called Borderline, but it was dead and still a £10 cover so we decided against it.
+
 **Sunday, July 8**
+
+My last day in London.
+
+Got bunch at a spot called Lantana Cafe in Fitzrovia and got some pints at a nearby pub called 'Rising Sun.'
+
+**Update:** Now that I am removed from this particular trip, I keep replaying it in my mind because it happened in the middle of one of the hardest upheavals of my life thus far. From London I tried to secure an apartment back in Brooklyn, but it fell through and I got scammed. Harry took his own life in 2019.
