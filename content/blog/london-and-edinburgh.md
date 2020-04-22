@@ -85,7 +85,7 @@ Anna and I made our way to Edinburgh for a mini weekend trip. We stayed at a hot
 
 **Friday, July 6**
 
-We packed a lot into our one full day in Edinburgh. We started out at the Edinburgh Castle  and then walked through Old Town and The Royal Mile. Ended up walking by Parliament and Holyrood Palace (where the Queen was visiting)
+We packed a lot into our one full day in Edinburgh. We started out at the Edinburgh Castle  and then walked through Old Town and The Royal Mile. Ended up walking by Parliament and Holyrood Palace (where the Queen was visiting) and then we hiked all the way to the top of Arthur's seat (it took about 2 hours). We stopped for Mexican food for dinner and then went back to the hotel to chill (we ended up walking over 10 miles) and watch a bit of our guilty pleasure: Love Island. We went to the Bogo Club and paid a cover, but it was dead, and just got a drink at Cafe Voltaire where we were harassed by two men who wanted to know 'where we were really from.' Went back to Bogo and while there were now more people the music was very trance-y  so we left and got some fish and chips and called it a night.
 
 **Saturday, July 7**
 
