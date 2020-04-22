@@ -17,7 +17,9 @@ tag:
 post_format: []
 
 ---
-![](https://live.staticflickr.com/65535/49807418302_66c6cee898_k.jpg)From the Met Breuer website:
+![](https://live.staticflickr.com/65535/49807418302_66c6cee898_k.jpg)
+
+From the Met Breuer website:
 
 **Exhibition Overview**
 
