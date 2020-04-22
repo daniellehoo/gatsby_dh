@@ -99,4 +99,5 @@ Got bunch at a spot called Lantana Cafe in Fitzrovia and got some pints at a nea
 
 **Update:** Now that I am removed from this particular trip, I keep replaying it in my mind because it happened in the middle of one of the hardest upheavals of my life thus far. From London I tried to secure an apartment back in Brooklyn, but it fell through and I got scammed. When I returned to the States, I had a lot of pieces to pick up and put back together, but the changes made were all necessary and I'm better off for them. 
 
-Harry took his own life in 2019.
+A mutual friend told me that Harry tragically took his own life in 2019.   
+I spent his last birthday on earth with him in London and this trip still haunts me because I wish I knew that he was suffering that much and that I could have helped him in some way.
