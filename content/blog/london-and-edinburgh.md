@@ -95,7 +95,7 @@ Anna and I walked through the streets of Soho after Pride—which were pretty ch
 
 My last day in London.
 
-Got bunch at a spot called Lantana Cafe in Fitzrovia and got some pints at a nearby pub called 'Rising Sun.'
+Got brunch at a spot called Lantana Cafe in Fitzrovia and had some pints at a nearby pub called 'Rising Sun.'
 
 **Update:** Now that I am removed from this particular trip, I keep replaying it in my mind because it happened in the middle of one of the hardest upheavals of my life thus far. From London I tried to secure an apartment back in Brooklyn, but it fell through and I got scammed. When I returned to the States, I had a lot of pieces to pick up and put back together, but the changes made were all necessary and I'm better off for them. 
 
