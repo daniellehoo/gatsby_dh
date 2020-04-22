@@ -58,9 +58,9 @@ In the evening, Anna and I met up with Harry and Nick at a spot called [Nettleho
 
 **Saturday, June 30**
 
-Anna and I went to the Victoria and Albert (V&A) Design Museum to see the Frida Kahlo exhibition, but it was sold out so we just viewed the permanent collection complete with costume/fashion--it's quite an impressive building. 
+Anna and I went to the Victoria and Albert (V&A) Design Museum to see the Frida Kahlo exhibition, but it was sold out so we just viewed the permanent collection complete with costume/fashion--it's quite an impressive building.
 
-In the evening, I met up with Harry and Nick and we went to The Alibi in Dalston (which has since closed and reflects a change to the east London club scene brought on by Hackney licensing laws). We danced for quite a while--the bar was a great little hole in the wall establishment. After the Alibi closed we headed to the Dolphin to finish the night out until 4:00 am (a delayed celebration of Harry's birthday). The sun was coming up when we left and I followed the boys back to Harry's flat where we continued to talk and hang out in Harry's yard until the really wee hours in the morning--listening to music and chain smoking cigarettes. 
+In the evening, I met up with Harry and Nick and we went to The Alibi in Dalston (which has since closed and reflects a change to the east London club scene brought on by Hackney licensing laws). We danced for quite a while--the bar was a great little hole in the wall establishment. After the Alibi closed we headed to the Dolphin to finish the night out until 4:00 am (a delayed celebration of Harry's birthday). The sun was coming up when we left and I followed the boys back to Harry's flat where we continued to talk and hang out in Harry's yard until the really wee hours in the morning--listening to music and chain smoking cigarettes.
 
 **Sunday, July 1**
 
@@ -72,13 +72,20 @@ This was Nick's last day in London before heading to Greece, Spain, and Portugal
 
 **Tuesday, July 3**
 
-I worked on a coding assignment for a job I was in the process of applying for and then in the afternoon went to St. Paul's (just's the exterior) an Tate Modern solo. I bought a bunch of books (including Noam Chomsky on Palestine) and spent a good portion of time in the book shop. While checkout out, I chatted with the shopkeeper about my visit to Palestine. Exploring the city without Nick was a little sad since we were London buddies and had established a habit of hanging out everyday. I
+I worked on a coding assignment for a job I was in the process of applying for and then in the afternoon went to St. Paul's (just's the exterior) an Tate Modern solo. I bought a bunch of books (including Noam Chomsky on Palestine) and spent a good portion of time in the book shop. While checkout out, I chatted with the shopkeeper about my visit to Palestine. Exploring the city without Nick was a little sad since we were London buddies and had established a habit of hanging out everyday—I especially missed his sprinklings of Seinfeld quotes.
 
 **Wednesday, July 4**
 
+Back to my usual antics of being abroad for the 4th of July.   
+Made it to the Tate Britain and out for groceries, them packed for our trip to Edinburgh.
+
 **Thursday, July 5**
 
+Anna and I made our way to Edinburgh for a mini weekend trip. We stayed at a hotel called The Hotel City Line on Grove Street. We grabbed dinner at a spot called 'Home' and I had the haggis (fried meatballs) and fish. We tried to go to a restaurant called 'Forge: Chatter,' but they were booked.  We tried a night out on the town—first stop was 'The Hive,'—apparently it's a student club., which we didn't know at the time and it actually smelled like vomit (whoops). We tried to go to a few other spots, then stopped in a 'haunted' bar, but most bars were oddly dead. We ended up at a spot called Stramash Live Music Bar and listened to music and got pizza and returned back to the hotel.
+
 **Friday, July 6**
+
+We packed a lot into our one full day in Edinburgh. We started out at the Edinburgh Castle  and then walked through Old Town and The Royal Mile. Ended up walking by Parliament and Holyrood Palace (where the Queen was visiting)
 
 **Saturday, July 7**
 
