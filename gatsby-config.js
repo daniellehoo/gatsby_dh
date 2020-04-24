@@ -7,7 +7,7 @@ module.exports = {
       summary: ``,
     },
     description: `Danielle Hoo's Blog`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `http://daniellehoo.com/blog`,
     social: {
       twitter: `daniellehoo`,
     },
