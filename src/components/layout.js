@@ -22,7 +22,6 @@ const Layout = ({ location, title, children }) => {
             style={{
               fontFamily: `Manrope, sans-serif`,
               boxShadow: `none`,
-              // textDecoration: `none`,
               color: `inherit`,
             }}
             to={`daniellehoo.com`}
@@ -37,11 +36,11 @@ const Layout = ({ location, title, children }) => {
       <div style={{
             marginTop: 0,
             display: `flex`,
-            justifyContent: `space-between`,
+            justifyContent: `flex-end`,
 
           }}
             >
-        <a
+        {/* <a
           style={{
             marginTop: `1rem`,
             padding: 0,
@@ -49,17 +48,7 @@ const Layout = ({ location, title, children }) => {
           }}
           href={`/posts`}
         >{title}
-          {/* <Link
-            style={{
-              fontFamily: `Manrope, sans-serif`,
-              boxShadow: `none`,
-              color: `inherit`,
-            }}
-            to={`http://www.daniellehoo.com`}
-          >
-            {title}
-          </Link> */}
-        </a>
+        </a> */}
         <a
           href={`http://daniellehoo.com`}
           style={{

@@ -58,9 +58,9 @@ export const pageQuery = graphql`
 
 const BlogArchive = ({ data, pageContext, location }) => {
     const posts = data.allMarkdownRemark.edges;
-
+    console.log(data)
     return (
-      <Layout location={location}>
+      <Layout location={location} title = {data.site.siteMetadata.title}>
         {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
