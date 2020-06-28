@@ -56,3 +56,24 @@ December 24, 2018 Singapore
 ![](https://live.staticflickr.com/65535/50054602601_b073ddd1c0.jpg)
 
 December 25, 2018 Singapore
+
+![](https://live.staticflickr.com/65535/50054718046_fb3b212c1f.jpg)
+
+December 28, 2018 Hanoi
+
+![](https://live.staticflickr.com/65535/50054138578_1805e775d6.jpg)
+
+December 28, 2018 Hanoi
+
+![](https://live.staticflickr.com/65535/50054138518_929d2b20eb.jpg)
+
+December 30, 2018 Halong Bay
+
+  
+![](https://live.staticflickr.com/65535/50054744306_c44f9d371e.jpg)
+
+January 2, 2019 Hanoi
+
+![](https://live.staticflickr.com/65535/50054717941_da0773e728.jpg)
+
+January 2, 2019 Hanoi
