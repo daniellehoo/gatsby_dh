@@ -5,7 +5,7 @@ status: ''
 permalink: ''
 author: ''
 excerpt: ''
-type: ''
+type: post
 id: ''
 category:
 - Asia
