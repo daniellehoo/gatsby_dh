@@ -1,6 +1,6 @@
 ---
 title: Detroit
-date: 2019-07-08T04:00:00Z
+date: 2019-07-08T16:43:25Z
 status: ''
 permalink: ''
 author: ''
@@ -8,9 +8,10 @@ excerpt: ''
 type: post
 id: ''
 category:
-- Domestic Travel
 - Travel
+- Domestic Travel
 tag:
+- Travel
 - Detroit
 post_format: []
 
@@ -19,19 +20,18 @@ post_format: []
 
 A trip to Detroit and Windsor, Canada (which I have been told is the asshole of Ontario).
 
- ![](https://live.staticflickr.com/65535/50054267063_edc87dbdaf.jpg)
+![](https://live.staticflickr.com/65535/50054267063_edc87dbdaf.jpg)
 
 July 3, 2019, Detroit
 
 ![](https://live.staticflickr.com/65535/50054845251_7324761778.jpg)
 
-July 3, 2019, Detroit 
+July 3, 2019, Detroit
 
 ![](https://live.staticflickr.com/65535/50055090337_cd615efbda.jpg)
 
-July 5, 2019, Detroit 
+July 5, 2019, Detroit
 
-  
 ![](https://live.staticflickr.com/65535/50054267018_a73e9538bc.jpg)
 
 July 5, 2019, Detroit

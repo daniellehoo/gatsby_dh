@@ -36,7 +36,7 @@ fields:
   name: post_format
   label: post_format
 pages:
+- content/blog/detroit.md
 - content/blog/like-life-sculpture-color-and-the-body-1300-now.md
 - content/blog/london-and-edinburgh.md
 - content/blog/singapore-and-vietnam.md
-- detroit.md
