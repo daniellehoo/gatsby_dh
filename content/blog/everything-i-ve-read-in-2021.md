@@ -58,8 +58,18 @@ post_format: []
 
     ![](https://live.staticflickr.com/65535/51760440758_d01cac53d4_z.jpg)
  9. **Caste - The Origins of Our Discontents - by Isabel Wilkerson**
+
+    I had high hopes for this title (and it was praised by many media sources) and asked for it from my mother for Christmas last year. Wilkerson makes the comparison of Black society in America to the untouchables caste in India (and to Nazi Germany). Wilkerson fails to really consider economic class and other major considerations in her argument and does not do a good job of going into the complexities of the caste system in Indian and its long reaching history.
+
+    ![](https://live.staticflickr.com/65535/51760850819_5c33c20b23.jpg)
 10. **The Plague, by Albert Camus**
+
+    Timely and popular during the pandemic. I can be morbid and the arc of this story closely follows the arc of our own during 'these trying times.'
+
+    ![](https://live.staticflickr.com/65535/51761065605_43fea133ff.jpg)
 11. **Nothing to Envy, by Barbara Demick**
+
+    An in-depth look at several defectors whose lives were interwoven and who grew up under the boot of the Democratic People's Republic of Korea. Moving in many ways.
 12. **Minor Feelings, by Cathy Park Hong**
 13. **Bronze Age Mind, by Bronze Age Pervert**
 14. **Crying in H-Mark, by Michelle Zauner**
