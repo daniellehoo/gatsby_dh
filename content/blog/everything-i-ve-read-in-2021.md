@@ -13,14 +13,32 @@ post_format: []
 
 ---
 
+![](https://live.staticflickr.com/65535/51760432953_3a0017d2e1_c.jpg)
+
  1. **The Autobiography of Malcolm X (as told to Alex Haley)**
+
+    An incredible read through and through. A fascinating, in-depth, intimate look at the incredible, inspiring life of Malcolm X including the tragedy that muddled his early life, his involvement with the Nation of Islam and his mentorship and eventual disappointment with his mentor Elijah Muhammad and his own premonitions of his eventual death.
+
+    ![](https://live.staticflickr.com/65535/51760195821_12be497554_c.jpg)
  2. **The Lying Life of Adults, by Elena Ferante**
+
+    The Neapolitan series made me a huge Ferante fan. Another coming of age tale, this novel tells the tale of a young girl who grows increasingly distrustful of the 'adults in the room.'
+
+    ![](https://live.staticflickr.com/65535/51760196136_b8e730949d_c.jpg)
  3. **Delirious New York, by Rem Koolhaus**
+
+    Working at an architecture firm for \~2 years and working in the art world (which is always architecture adjacent) this work often came up in discussion and was cited to me as both "the reason I became an architect" and "the reason why I moves to New York," by colleagues.  
+      
+    In maybe my favorite line of the book, Koolhaus describes Coney Island as a "clitorial appendage."
+
+    ![](https://live.staticflickr.com/65535/51760437848_34336c384a_c.jpg)
  4. **Everything I Never Told You, by Celeste Ng**
  5. **Trick Mirror, by Jia Tolentino**
  6. **Capitalist Realism, by Mark Fisher**
  7. **The Symposium, by Plato**
  8. **Lean in For Graduates, by Sheryl Sandberg**
+
+    Another Brooklyn stoop find. Sandberg gave the commencement speech at my alma mater the year after I graduated. I never really had an interest in reading it, but due to a work situation I found myself in (misogyny in tech) I was inspired to finally do so. My complaints (common criticisms of this book) were that this book seemed to cater to elite white women with pedigrees to boot. It was a timely read with the release of _White Lotus_ earlier this year.
  9. **Caste - The Origins of Our Discontents - by Isabel Wilkerson**
 10. **The Plague, by Albert Camus**
 11. **Nothing to Envy, by Barbara Demick**
