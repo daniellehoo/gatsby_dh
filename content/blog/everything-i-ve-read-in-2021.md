@@ -70,7 +70,21 @@ post_format: []
 11. **Nothing to Envy, by Barbara Demick**
 
     An in-depth look at several defectors whose lives were interwoven and who grew up under the boot of the Democratic People's Republic of Korea. Moving in many ways.
+
+    ![](https://live.staticflickr.com/65535/51759372217_332eaa884e.jpg)
 12. **Minor Feelings, by Cathy Park Hong**
+
+    ![](https://live.staticflickr.com/65535/51760445358_88e50c8feb_n.jpg)
 13. **Bronze Age Mind, by Bronze Age Pervert**
+
+    Gifted to me by a former co-worker, I'm not sure I understand the gist of this self-published pseudonymed controversial figure. [Lindy Man](https://www.nytimes.com/2021/06/17/style/lindy.html) and Red Scare podcast adjacent, the right Twitter stans BAP. I wanted to read this to get a clue into this mysterious figures psyche, but I'm just puzzled.
+
+    ![](https://live.staticflickr.com/65535/51760207421_f3c84c29e5_n.jpg)
 14. **Crying in H-Mark, by Michelle Zauner**
+
+    Moving, incredible, relatable. As a fellow hapa, this book moved me and spoke to me and my experience of growing up mixed raced in America.
+
+    ![](https://live.staticflickr.com/65535/51761070065_5fc0800db4_n.jpg)
 15. **Interior Chinatown, by Charles Wu**
+
+    I bought this book for my dad for Christmas last year but wanted to read it myself. When I was in a thrift shop in Jackson Hole, WY in September, I picked up a copy for myself. Also timely, since I just got back from a trip to LA -- I enjoyed Yu's approach to the novel (it's written like a screenplay) and his attempt to tackle the Asian male's experience in America (always trying to be the 'Kung Fu Man,' but usually cast as 'Generic Asian Man').
