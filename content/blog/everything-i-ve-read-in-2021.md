@@ -33,12 +33,20 @@ post_format: []
 
     ![](https://live.staticflickr.com/65535/51760437848_34336c384a_c.jpg)
  4. **Everything I Never Told You, by Celeste Ng**
+
+    A hapa (mixed raced/half Asian) teenager goes missing in 1970s Ohio. The pressures of growing up under family pressure and being mixed race create pressures for the protagonist, Lydia. A former co-worker recommended this one to me a while ago and I finally got around to reading it.
+
+    ![](https://live.staticflickr.com/65535/51761113305_a086a43b64_z.jpg)
  5. **Trick Mirror, by Jia Tolentino**
+
+    It felt like there was a point in time when everyone in Brooklyn was reading this collection of essays. Tolentino's [The Age of Instagram Face]() made the rounds in 2019 and I have previously enjoyed her commentary. Trick Mirror's contemporary commentary, however, often falls flat. One essay I did enjoy was the one titled "Reality TV me" where she recounts her reality TV experience as a young teen (before reality TV was really a thing).
  6. **Capitalist Realism, by Mark Fisher**
  7. **The Symposium, by Plato**
  8. **Lean in For Graduates, by Sheryl Sandberg**
 
     Another Brooklyn stoop find. Sandberg gave the commencement speech at my alma mater the year after I graduated. I never really had an interest in reading it, but due to a work situation I found myself in (misogyny in tech) I was inspired to finally do so. My complaints (common criticisms of this book) were that this book seemed to cater to elite white women with pedigrees to boot. It was a timely read with the release of _White Lotus_ earlier this year.
+
+    ![](https://live.staticflickr.com/65535/51760440758_d01cac53d4_z.jpg)
  9. **Caste - The Origins of Our Discontents - by Isabel Wilkerson**
 10. **The Plague, by Albert Camus**
 11. **Nothing to Envy, by Barbara Demick**
