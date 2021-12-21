@@ -41,7 +41,11 @@ post_format: []
 
     It felt like there was a point in time when everyone in Brooklyn was reading this collection of essays. Tolentino's [The Age of Instagram Face]() made the rounds in 2019 and I have previously enjoyed her commentary. Trick Mirror's contemporary commentary, however, often falls flat. One essay I did enjoy was the one titled "Reality TV me" where she recounts her reality TV experience as a young teen (before reality TV was really a thing).
  6. **Capitalist Realism, by Mark Fisher**
+
+    ![](https://live.staticflickr.com/65535/51760850844_2905a88928.jpg)
  7. **The Symposium, by Plato**
+
+    Sometimes it feels like I got short-changed by the literary canon / core curriculum I was taught in public school. I was gifted this book a few years ago, but had reservations about reading it because I was supposed to read it with a former partner (who was in a secret "book club"). Any who, I digress -- this book is all about how many boy love is the highest form of love and women are vastly superior in every way possible (as lovers, as partners, in lesbian couples). That was my main takeaway at least.
  8. **Lean in For Graduates, by Sheryl Sandberg**
 
     Another Brooklyn stoop find. Sandberg gave the commencement speech at my alma mater the year after I graduated. I never really had an interest in reading it, but due to a work situation I found myself in (misogyny in tech) I was inspired to finally do so. My complaints (common criticisms of this book) were that this book seemed to cater to elite white women with pedigrees to boot. It was a timely read with the release of _White Lotus_ earlier this year.
