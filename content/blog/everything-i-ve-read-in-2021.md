@@ -74,6 +74,8 @@ post_format: []
     ![](https://live.staticflickr.com/65535/51759372217_332eaa884e.jpg)
 12. **Minor Feelings, by Cathy Park Hong**
 
+    Another timely read, with the Atlanta killings back in May and the elevated Asian hate and consciousness of anti-Asian sentiment post-COVID, but like always, really. Park Hong tackles what it's like to be Asian in America in this book of essays.
+
     ![](https://live.staticflickr.com/65535/51760445358_88e50c8feb_n.jpg)
 13. **Bronze Age Mind, by Bronze Age Pervert**
 
