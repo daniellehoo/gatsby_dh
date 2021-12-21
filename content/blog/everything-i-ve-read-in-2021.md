@@ -1,9 +1,9 @@
 ---
 title: Everything I've Read in 2021
-date: 2021-12-31T07:00:00Z
+date: 2021-12-31T07:00:00.000+00:00
 status: ''
 permalink: ''
-author: Daniell
+author: Danielle
 excerpt: ''
 type: ''
 id: ''
